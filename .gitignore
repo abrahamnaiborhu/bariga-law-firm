@@ -5,3 +5,6 @@ dist/
 .env.*
 !.env.example
 *.pem
+.prerender/
+.seo-cache/
+docs/*evidence/

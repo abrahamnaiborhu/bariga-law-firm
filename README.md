@@ -3,7 +3,7 @@
 React + Vite website implementing the preferred boutique v3 direction. Five separate HTML entries share React components and local content. Original logo and partner portrait are supplied assets; the homepage architecture is conceptual decorative imagery.
 
 ```sh
-npm install
+npm ci
 npm run dev
 npm run build
 npm run preview
@@ -17,7 +17,14 @@ npm run preview
 - `/lain-lain/` — Layanan Strategis, preserving the existing public URL
 - `/konsultasi/` — WhatsApp and email only
 
-Native page navigation preserves browser history without a routing dependency. Vite builds each route into its own directory in `dist/`. Serve that directory from the domain root on a host with directory-index support. No publication or hosting change has been performed. `noindex, nofollow` remains for review; remove only as part of an approved launch.
+Native page navigation preserves browser history without a routing dependency. The build prerenders each route into its own directory in `dist/`, with React hydration for animation. GitHub Actions tests, validates and deploys `main` to GitHub Pages.
+
+Staging is configured for `barigalawfirm-staging.abrahamnaiborhu.com`, with `noindex, follow`. See [deployment and DNS instructions](docs/DEPLOYMENT.md) and [SEO implementation](docs/SEO.md). No remote publication or DNS change has been performed. Node 24 is required.
+
+```sh
+npm test
+npm run check:build
+```
 
 ## Source
 

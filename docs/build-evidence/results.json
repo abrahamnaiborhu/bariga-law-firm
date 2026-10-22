@@ -28,18 +28,18 @@
   },
   "performanceSample": {
     "metrics": {
-      "lcp": 1424,
+      "lcp": 1044,
       "cls": 0
     },
-    "transfer": 170447,
+    "transfer": 171056,
     "resources": [
       {
-        "name": "http://127.0.0.1:4173/assets/main-C0fNfLku.js",
-        "transfer": 75874
+        "name": "http://127.0.0.1:4173/assets/main-BETFbhDY.js",
+        "transfer": 76273
       },
       {
-        "name": "http://127.0.0.1:4173/assets/main-BcWhkVJA.css",
-        "transfer": 7340
+        "name": "http://127.0.0.1:4173/assets/main-B65sWpKU.css",
+        "transfer": 7550
       },
       {
         "name": "http://127.0.0.1:4173/images/logo.png",
@@ -57,7 +57,7 @@
     {
       "width": 320,
       "route": "/",
-      "title": "Home — Bariga Law Firm",
+      "title": "Bariga Law Firm | Solusi Hukum Strategis di Jakarta",
       "h1": "Integrity,Strategy &Justice",
       "overflow": false,
       "images": [
@@ -89,7 +89,7 @@
     {
       "width": 320,
       "route": "/about-us/",
-      "title": "About Us — Bariga Law Firm",
+      "title": "Tentang Kami & Managing Partner | Bariga Law Firm",
       "h1": "TentangKami",
       "overflow": false,
       "images": [
@@ -116,7 +116,7 @@
     {
       "width": 320,
       "route": "/practice-areas/",
-      "title": "Practice Areas — Bariga Law Firm",
+      "title": "Bidang Praktik & Layanan Hukum | Bariga Law Firm",
       "h1": "PracticeAreas",
       "overflow": false,
       "images": [
@@ -143,7 +143,7 @@
     {
       "width": 320,
       "route": "/lain-lain/",
-      "title": "Layanan Strategis — Bariga Law Firm",
+      "title": "Training & Consulting Bisnis | Bariga Law Firm",
       "h1": "Training &Consulting",
       "overflow": false,
       "images": [
@@ -180,7 +180,7 @@
     {
       "width": 320,
       "route": "/konsultasi/",
-      "title": "Konsultasi — Bariga Law Firm",
+      "title": "Konsultasi Hukum via WhatsApp & Email | Bariga Law Firm",
       "h1": "Mari Diskusikan Kebutuhan Strategis Anda",
       "overflow": false,
       "images": [
@@ -202,7 +202,7 @@
     {
       "width": 360,
       "route": "/",
-      "title": "Home — Bariga Law Firm",
+      "title": "Bariga Law Firm | Solusi Hukum Strategis di Jakarta",
       "h1": "Integrity,Strategy &Justice",
       "overflow": false,
       "images": [
@@ -234,7 +234,7 @@
     {
       "width": 360,
       "route": "/about-us/",
-      "title": "About Us — Bariga Law Firm",
+      "title": "Tentang Kami & Managing Partner | Bariga Law Firm",
       "h1": "TentangKami",
       "overflow": false,
       "images": [
@@ -261,7 +261,7 @@
     {
       "width": 360,
       "route": "/practice-areas/",
-      "title": "Practice Areas — Bariga Law Firm",
+      "title": "Bidang Praktik & Layanan Hukum | Bariga Law Firm",
       "h1": "PracticeAreas",
       "overflow": false,
       "images": [
@@ -288,7 +288,7 @@
     {
       "width": 360,
       "route": "/lain-lain/",
-      "title": "Layanan Strategis — Bariga Law Firm",
+      "title": "Training & Consulting Bisnis | Bariga Law Firm",
       "h1": "Training &Consulting",
       "overflow": false,
       "images": [
@@ -325,7 +325,7 @@
     {
       "width": 360,
       "route": "/konsultasi/",
-      "title": "Konsultasi — Bariga Law Firm",
+      "title": "Konsultasi Hukum via WhatsApp & Email | Bariga Law Firm",
       "h1": "Mari Diskusikan Kebutuhan Strategis Anda",
       "overflow": false,
       "images": [
@@ -347,7 +347,7 @@
     {
       "width": 390,
       "route": "/",
-      "title": "Home — Bariga Law Firm",
+      "title": "Bariga Law Firm | Solusi Hukum Strategis di Jakarta",
       "h1": "Integrity,Strategy &Justice",
       "overflow": false,
       "images": [
@@ -379,7 +379,7 @@
     {
       "width": 390,
       "route": "/about-us/",
-      "title": "About Us — Bariga Law Firm",
+      "title": "Tentang Kami & Managing Partner | Bariga Law Firm",
       "h1": "TentangKami",
       "overflow": false,
       "images": [
@@ -406,7 +406,7 @@
     {
       "width": 390,
       "route": "/practice-areas/",
-      "title": "Practice Areas — Bariga Law Firm",
+      "title": "Bidang Praktik & Layanan Hukum | Bariga Law Firm",
       "h1": "PracticeAreas",
       "overflow": false,
       "images": [
@@ -433,7 +433,7 @@
     {
       "width": 390,
       "route": "/lain-lain/",
-      "title": "Layanan Strategis — Bariga Law Firm",
+      "title": "Training & Consulting Bisnis | Bariga Law Firm",
       "h1": "Training &Consulting",
       "overflow": false,
       "images": [
@@ -470,7 +470,7 @@
     {
       "width": 390,
       "route": "/konsultasi/",
-      "title": "Konsultasi — Bariga Law Firm",
+      "title": "Konsultasi Hukum via WhatsApp & Email | Bariga Law Firm",
       "h1": "Mari Diskusikan Kebutuhan Strategis Anda",
       "overflow": false,
       "images": [
@@ -492,7 +492,7 @@
     {
       "width": 768,
       "route": "/",
-      "title": "Home — Bariga Law Firm",
+      "title": "Bariga Law Firm | Solusi Hukum Strategis di Jakarta",
       "h1": "Integrity,Strategy &Justice",
       "overflow": false,
       "images": [
@@ -524,7 +524,7 @@
     {
       "width": 768,
       "route": "/about-us/",
-      "title": "About Us — Bariga Law Firm",
+      "title": "Tentang Kami & Managing Partner | Bariga Law Firm",
       "h1": "TentangKami",
       "overflow": false,
       "images": [
@@ -551,7 +551,7 @@
     {
       "width": 768,
       "route": "/practice-areas/",
-      "title": "Practice Areas — Bariga Law Firm",
+      "title": "Bidang Praktik & Layanan Hukum | Bariga Law Firm",
       "h1": "PracticeAreas",
       "overflow": false,
       "images": [
@@ -578,7 +578,7 @@
     {
       "width": 768,
       "route": "/lain-lain/",
-      "title": "Layanan Strategis — Bariga Law Firm",
+      "title": "Training & Consulting Bisnis | Bariga Law Firm",
       "h1": "Training &Consulting",
       "overflow": false,
       "images": [
@@ -615,7 +615,7 @@
     {
       "width": 768,
       "route": "/konsultasi/",
-      "title": "Konsultasi — Bariga Law Firm",
+      "title": "Konsultasi Hukum via WhatsApp & Email | Bariga Law Firm",
       "h1": "Mari Diskusikan Kebutuhan Strategis Anda",
       "overflow": false,
       "images": [
@@ -637,7 +637,7 @@
     {
       "width": 1024,
       "route": "/",
-      "title": "Home — Bariga Law Firm",
+      "title": "Bariga Law Firm | Solusi Hukum Strategis di Jakarta",
       "h1": "Integrity,Strategy &Justice",
       "overflow": false,
       "images": [
@@ -669,7 +669,7 @@
     {
       "width": 1024,
       "route": "/about-us/",
-      "title": "About Us — Bariga Law Firm",
+      "title": "Tentang Kami & Managing Partner | Bariga Law Firm",
       "h1": "TentangKami",
       "overflow": false,
       "images": [
@@ -696,7 +696,7 @@
     {
       "width": 1024,
       "route": "/practice-areas/",
-      "title": "Practice Areas — Bariga Law Firm",
+      "title": "Bidang Praktik & Layanan Hukum | Bariga Law Firm",
       "h1": "PracticeAreas",
       "overflow": false,
       "images": [
@@ -723,7 +723,7 @@
     {
       "width": 1024,
       "route": "/lain-lain/",
-      "title": "Layanan Strategis — Bariga Law Firm",
+      "title": "Training & Consulting Bisnis | Bariga Law Firm",
       "h1": "Training &Consulting",
       "overflow": false,
       "images": [
@@ -760,7 +760,7 @@
     {
       "width": 1024,
       "route": "/konsultasi/",
-      "title": "Konsultasi — Bariga Law Firm",
+      "title": "Konsultasi Hukum via WhatsApp & Email | Bariga Law Firm",
       "h1": "Mari Diskusikan Kebutuhan Strategis Anda",
       "overflow": false,
       "images": [
@@ -782,7 +782,7 @@
     {
       "width": 1280,
       "route": "/",
-      "title": "Home — Bariga Law Firm",
+      "title": "Bariga Law Firm | Solusi Hukum Strategis di Jakarta",
       "h1": "Integrity,Strategy &Justice",
       "overflow": false,
       "images": [
@@ -814,7 +814,7 @@
     {
       "width": 1280,
       "route": "/about-us/",
-      "title": "About Us — Bariga Law Firm",
+      "title": "Tentang Kami & Managing Partner | Bariga Law Firm",
       "h1": "TentangKami",
       "overflow": false,
       "images": [
@@ -841,7 +841,7 @@
     {
       "width": 1280,
       "route": "/practice-areas/",
-      "title": "Practice Areas — Bariga Law Firm",
+      "title": "Bidang Praktik & Layanan Hukum | Bariga Law Firm",
       "h1": "PracticeAreas",
       "overflow": false,
       "images": [
@@ -868,7 +868,7 @@
     {
       "width": 1280,
       "route": "/lain-lain/",
-      "title": "Layanan Strategis — Bariga Law Firm",
+      "title": "Training & Consulting Bisnis | Bariga Law Firm",
       "h1": "Training &Consulting",
       "overflow": false,
       "images": [
@@ -905,7 +905,7 @@
     {
       "width": 1280,
       "route": "/konsultasi/",
-      "title": "Konsultasi — Bariga Law Firm",
+      "title": "Konsultasi Hukum via WhatsApp & Email | Bariga Law Firm",
       "h1": "Mari Diskusikan Kebutuhan Strategis Anda",
       "overflow": false,
       "images": [
@@ -927,7 +927,7 @@
     {
       "width": 1440,
       "route": "/",
-      "title": "Home — Bariga Law Firm",
+      "title": "Bariga Law Firm | Solusi Hukum Strategis di Jakarta",
       "h1": "Integrity,Strategy &Justice",
       "overflow": false,
       "images": [
@@ -959,7 +959,7 @@
     {
       "width": 1440,
       "route": "/about-us/",
-      "title": "About Us — Bariga Law Firm",
+      "title": "Tentang Kami & Managing Partner | Bariga Law Firm",
       "h1": "TentangKami",
       "overflow": false,
       "images": [
@@ -986,7 +986,7 @@
     {
       "width": 1440,
       "route": "/practice-areas/",
-      "title": "Practice Areas — Bariga Law Firm",
+      "title": "Bidang Praktik & Layanan Hukum | Bariga Law Firm",
       "h1": "PracticeAreas",
       "overflow": false,
       "images": [
@@ -1013,7 +1013,7 @@
     {
       "width": 1440,
       "route": "/lain-lain/",
-      "title": "Layanan Strategis — Bariga Law Firm",
+      "title": "Training & Consulting Bisnis | Bariga Law Firm",
       "h1": "Training &Consulting",
       "overflow": false,
       "images": [
@@ -1050,7 +1050,7 @@
     {
       "width": 1440,
       "route": "/konsultasi/",
-      "title": "Konsultasi — Bariga Law Firm",
+      "title": "Konsultasi Hukum via WhatsApp & Email | Bariga Law Firm",
       "h1": "Mari Diskusikan Kebutuhan Strategis Anda",
       "overflow": false,
       "images": [
@@ -1095,6 +1095,16 @@
   },
   "errors": [],
   "network": [
+    {
+      "type": "failed",
+      "error": "",
+      "resourceType": "Image"
+    },
+    {
+      "type": "failed",
+      "error": "",
+      "resourceType": "Image"
+    },
     {
       "type": "failed",
       "error": "",

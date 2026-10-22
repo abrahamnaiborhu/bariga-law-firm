@@ -1,3 +1,5 @@
+import { pagePath } from './site.js';
+import SiteLink from './components/SiteLink.jsx';
 import { useLayoutEffect } from 'react';
 import { Header, Footer, ContactInvitation } from './components/Layout.jsx';
 import { PracticePage, StrategicPage } from './components/Services.jsx';
@@ -10,8 +12,8 @@ const pages = {
   '/lain-lain/': StrategicPage,
   '/konsultasi/': ConsultationPage,
 };
-export default function App() {
-  const path = window.location.pathname.replace(/index\.html$/, '').replace(/\/?$/, '/');
+export default function App({ route }) {
+  const path = route || pagePath(window.location.pathname);
   const Page = pages[path];
   useLayoutEffect(() => {
     // The browser tries fragment navigation before React creates the section.
@@ -25,5 +27,5 @@ export default function App() {
       document.getElementById(id)?.scrollIntoView();
     }
   }, []);
-  return <><a className="skip-link" href="#main">Langsung ke konten</a><Header current={path} /><main id="main">{Page ? <Page /> : <section className="section not-found"><h1>Halaman tidak ditemukan.</h1><a href="/">Kembali ke Home</a></section>}{['/practice-areas/', '/lain-lain/'].includes(path) && <ContactInvitation />}</main><Footer /></>;
+  return <><SiteLink className="skip-link" href="#main">Langsung ke konten</SiteLink><Header current={path} /><main id="main">{Page ? <Page /> : <section className="section not-found"><h1>Halaman tidak ditemukan.</h1><SiteLink href="/">Kembali ke Home</SiteLink></section>}{['/practice-areas/', '/lain-lain/'].includes(path) && <ContactInvitation />}</main><Footer /></>;
 }

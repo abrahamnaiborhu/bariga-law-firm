@@ -1,3 +1,4 @@
+import SiteLink from './SiteLink.jsx';
 import { useRef } from 'react';
 import { PracticeOpening, StrategicOpening } from './InnerOpenings.jsx';
 import { useReadingProgress, useReadingSection } from '../useReadingProgress.js';
@@ -29,9 +30,9 @@ export function PracticePage() {
     <section className="indexed-services section" id="practice-directory" ref={ref}>
       <aside className="reading-index"><p className="eyebrow">Practice Areas</p>
         <nav aria-label="Daftar bidang praktik">{content.practices.map((item, index) =>
-          <a key={item.id} href={`#${item.id}`} aria-current={active === item.id ? 'location' : undefined}>
+          <SiteLink key={item.id} href={`#${item.id}`} aria-current={active === item.id ? 'location' : undefined}>
             <span>{String(index + 1).padStart(2, '0')}</span>{item.title}
-          </a>)}</nav>
+          </SiteLink>)}</nav>
       </aside>
       <ServiceList items={content.practices} />
     </section>

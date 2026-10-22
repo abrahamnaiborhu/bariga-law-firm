@@ -5,16 +5,16 @@
       "start": {
         "active": 5,
         "portrait": "matrix(1, 0, 0, 1, 0, 76)",
-        "shape": "matrix(0.978077, 0.208244, -0.208244, 0.978077, 0, 35.2571)",
+        "shape": "matrix(0.975403, 0.220427, -0.220427, 0.975403, 0, 37.3534)",
         "line": "1px",
         "badges": 0,
         "overflow": false
       },
       "middle": {
         "active": 5,
-        "portrait": "matrix(1, 0, 0, 1, 0, 8.45806)",
-        "shape": "matrix(0.999731, 0.0231899, -0.0231899, 0.999731, 0, 3.89783)",
-        "line": "0.238891px",
+        "portrait": "matrix(1, 0, 0, 1, 0, 9.26159)",
+        "shape": "matrix(0.999682, 0.0252007, -0.0252007, 0.999682, 0, 4.23588)",
+        "line": "0.258504px",
         "badges": 0,
         "overflow": false
       },
@@ -62,17 +62,17 @@
       "width": 390,
       "start": {
         "active": 5,
-        "portrait": "matrix(1, 0, 0, 1, 0, 71.6507)",
-        "shape": "matrix(0.984745, 0.174002, -0.174002, 0.984745, 0, 29.3936)",
+        "portrait": "matrix(1, 0, 0, 1, 0, 67.3608)",
+        "shape": "matrix(0.986578, 0.163292, -0.163292, 0.986578, 0, 27.5675)",
         "line": "1px",
         "badges": 0,
         "overflow": false
       },
       "middle": {
         "active": 5,
-        "portrait": "matrix(1, 0, 0, 1, 0, 5.84279)",
-        "shape": "matrix(0.999864, 0.0165214, -0.0165214, 0.999864, 0, 2.77684)",
-        "line": "0.173407px",
+        "portrait": "matrix(1, 0, 0, 1, 0, 5.84349)",
+        "shape": "matrix(0.999863, 0.0165232, -0.0165232, 0.999863, 0, 2.77714)",
+        "line": "0.173425px",
         "badges": 0,
         "overflow": false
       },
@@ -120,17 +120,17 @@
       "width": 360,
       "start": {
         "active": 5,
-        "portrait": "matrix(1, 0, 0, 1, 0, 67.3847)",
-        "shape": "matrix(0.986568, 0.163351, -0.163351, 0.986568, 0, 27.5776)",
+        "portrait": "matrix(1, 0, 0, 1, 0, 71.6298)",
+        "shape": "matrix(0.984755, 0.173949, -0.173949, 0.984755, 0, 29.3846)",
         "line": "1px",
         "badges": 0,
         "overflow": false
       },
       "middle": {
         "active": 5,
-        "portrait": "matrix(1, 0, 0, 1, 0, 5.84114)",
-        "shape": "matrix(0.999864, 0.0165171, -0.0165171, 0.999864, 0, 2.77612)",
-        "line": "0.173365px",
+        "portrait": "matrix(1, 0, 0, 1, 0, 6.41599)",
+        "shape": "matrix(0.999838, 0.0180015, -0.0180015, 0.999838, 0, 3.02563)",
+        "line": "0.187992px",
         "badges": 0,
         "overflow": false
       },
@@ -178,17 +178,17 @@
       "width": 320,
       "start": {
         "active": 5,
-        "portrait": "matrix(1, 0, 0, 1, 0, 71.6251)",
-        "shape": "matrix(0.984757, 0.173937, -0.173937, 0.984757, 0, 29.3827)",
+        "portrait": "matrix(1, 0, 0, 1, 0, 67.3671)",
+        "shape": "matrix(0.986575, 0.163307, -0.163307, 0.986575, 0, 27.5701)",
         "line": "1px",
         "badges": 0,
         "overflow": false
       },
       "middle": {
         "active": 5,
-        "portrait": "matrix(1, 0, 0, 1, 0, 6.41534)",
-        "shape": "matrix(0.999838, 0.0179998, -0.0179998, 0.999838, 0, 3.02535)",
-        "line": "0.187975px",
+        "portrait": "matrix(1, 0, 0, 1, 0, 5.31366)",
+        "shape": "matrix(0.999885, 0.0151442, -0.0151442, 0.999885, 0, 2.54535)",
+        "line": "0.159814px",
         "badges": 0,
         "overflow": false
       },

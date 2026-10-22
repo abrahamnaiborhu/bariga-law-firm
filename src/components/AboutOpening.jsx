@@ -1,3 +1,4 @@
+import { sitePath } from '../site.js';
 import { useAboutEntrance } from '../useAboutEntrance.js';
 import { useRef } from 'react';
 import content from '../content.json';
@@ -19,7 +20,7 @@ export default function AboutOpening() {
       <div className="cutout-stage">
         <div className="portrait-arch-clip" aria-hidden="true"><div className="portrait-arch-motion"><div className="portrait-arch" /></div></div>
         <svg className="portrait-orbit" viewBox="0 0 600 360" preserveAspectRatio="none" aria-hidden="true"><ellipse cx="300" cy="180" rx="299" ry="179" pathLength="1" /></svg>
-        <div className="cutout-mask"><div className="cutout-rise"><img src="/images/partner-cutout.webp" width="756" height="850" alt="Mesa Indra Naiborhu, Managing Partner Bariga Law Firm" fetchPriority="high" /></div></div>
+        <div className="cutout-mask"><div className="cutout-rise"><img src={sitePath('/images/partner-cutout.webp')} width="756" height="850" alt="Mesa Indra Naiborhu, Managing Partner Bariga Law Firm" fetchPriority="high" /></div></div>
       </div>
       <figcaption>{content.partnerName}<span>Managing Partner</span></figcaption>
     </figure>

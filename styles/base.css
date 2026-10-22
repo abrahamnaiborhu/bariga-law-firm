@@ -1295,3 +1295,20 @@ blockquote p {
   .portrait-arch { transform: rotate(-2deg); }
   .portrait-orbit { transform: rotate(-10deg); }
 }
+
+/* Match the opening's enhanced geometry before hydration; copy is already HTML. */
+.js-enabled .home-scene:not(.scene-enhanced) { height: 175svh; --scene-progress: 0; --frame-top: 0px; --frame-left: 0px; --frame-right: 0px; --frame-bottom: 0px; }
+.js-enabled .home-scene:not(.scene-enhanced) .scene-stage { position: sticky; top: 0; min-height: 0; }
+@media(max-width:850px), (max-height:619px) {
+  .js-enabled .home-scene:not(.scene-enhanced) { height: auto; }
+  .js-enabled .home-scene:not(.scene-enhanced) .scene-stage { position: relative; }
+  .js-enabled .home-scene:not(.scene-enhanced) .scene-photograph { bottom: auto; height: clamp(350px,62svh,480px); }
+}
+@media(prefers-reduced-motion:reduce) {
+  .js-enabled .home-scene:not(.scene-enhanced) { height: auto; --scene-progress: 1; --frame-top: 6%; --frame-left: 58%; --frame-right: var(--gutter); --frame-bottom: 84px; }
+  .js-enabled .home-scene:not(.scene-enhanced) .scene-stage { position: relative; }
+}
+@media(prefers-reduced-motion:reduce) and (max-width:850px), (prefers-reduced-motion:reduce) and (max-height:619px) {
+  .js-enabled .home-scene:not(.scene-enhanced) { --frame-top: 24px; --frame-left: 24px; --frame-right: 24px; }
+  .js-enabled .home-scene:not(.scene-enhanced) .scene-photograph { height: calc(clamp(350px,62svh,480px) - 48px); }
+}

@@ -1,3 +1,4 @@
+import SiteLink from './SiteLink.jsx';
 import { useRef } from 'react';
 import content from '../content.json';
 import { useReadingProgress, useReadingSection } from '../useReadingProgress.js';
@@ -27,9 +28,9 @@ export function ConsultationProcess() {
   return <section className="consult-process guided-process section" ref={ref} id="proses-konsultasi">
     <div className="process-heading"><p className="eyebrow">Proses Konsultasi</p><h2>Tiga Langkah <em>Awal</em></h2>
       <nav className="process-navigation" aria-label="Langkah konsultasi">{content.steps.map((step, index) =>
-        <a href={`#${stepIds[index]}`} key={step.title} aria-current={active === stepIds[index] ? 'location' : undefined}>
+        <SiteLink href={`#${stepIds[index]}`} key={step.title} aria-current={active === stepIds[index] ? 'location' : undefined}>
           <span>0{index + 1}</span>{step.title.split(': ')[1]}
-        </a>)}</nav>
+        </SiteLink>)}</nav>
     </div>
     <ol>{content.steps.map((step, index) => <li id={stepIds[index]} key={step.title} className={active === stepIds[index] ? 'is-reading' : ''}>
       <span className="service-number" aria-hidden="true">0{index + 1}</span>

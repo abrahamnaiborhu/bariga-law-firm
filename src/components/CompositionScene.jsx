@@ -1,3 +1,5 @@
+import SiteLink from './SiteLink.jsx';
+import { sitePath } from '../site.js';
 // Homepage signature: inner pages deliberately use different compositions.
 import { useLayoutEffect, useRef } from 'react';
 import content from '../content.json';
@@ -16,7 +18,7 @@ function OpeningCopy({ visual = false, label, title, intro, action, actionHref }
     <p className="scene-intro">{intro}</p>
     <div className="scene-actions">
       <TextLink href={actionHref} outlined>{action}</TextLink>
-      <a className="quiet-link" href="/about-us/">Pelajari Pendekatan Kami</a>
+      <SiteLink className="quiet-link" href="/about-us/">Pelajari Pendekatan Kami</SiteLink>
     </div>
     </div>
   </div>;
@@ -98,12 +100,12 @@ export default function CompositionScene({
     <div className="scene-stage">
       <OpeningCopy {...copy} />
       <div className="scene-photograph" aria-hidden="true">
-        <img src={`/images/${image}.jpg`} srcSet={image === 'architecture' ? '/images/architecture-small.jpg 700w, /images/architecture.jpg 1500w' : undefined} sizes="100vw" width="1500" height="844" alt="" fetchPriority="high" />
+        <img src={sitePath(`/images/${image}.jpg`)} srcSet={image === 'architecture' ? `${sitePath('/images/architecture-small.jpg')} 700w, ${sitePath('/images/architecture.jpg')} 1500w` : undefined} sizes="100vw" width="1500" height="844" alt="" fetchPriority="high" />
       </div>
       {/* The clipped visual copy keeps white type exactly over the photograph.
           The real, accessible copy and links remain below at identical positions. */}
       <div className="scene-light-copy" aria-hidden="true" inert><OpeningCopy {...copy} visual /></div>
-      <div className="scene-caption"><span>Integrity, Strategy &amp; Justice</span><a href={`#${target}`}>{targetLabel} <span aria-hidden="true">↓</span></a></div>
+      <div className="scene-caption"><span>Integrity, Strategy &amp; Justice</span><SiteLink href={`#${target}`}>{targetLabel} <span aria-hidden="true">↓</span></SiteLink></div>
       <div className="scene-track" aria-hidden="true"><span /></div>
     </div>
   </section>;

@@ -1,3 +1,4 @@
+import { sitePath } from '../site.js';
 import { useRef } from 'react';
 import { useReadingProgress } from '../useReadingProgress.js';
 import { TextLink } from './Layout.jsx';
@@ -11,7 +12,7 @@ export function PracticeOpening({ intro }) {
       <div><p>{intro}</p><TextLink href="#practice-directory">Practice Areas</TextLink></div>
     </div>
     <div className="folio-art" ref={art}>
-      <div className="folio-window"><img src="/images/desk.jpg" width="1200" height="800" alt="" /></div>
+      <div className="folio-window"><img src={sitePath('/images/desk.jpg')} width="1200" height="800" alt="" /></div>
       <div className="folio-register" aria-hidden="true"><span>Practice Areas</span><span>01 — 07</span></div>
     </div>
   </header>;
@@ -27,7 +28,7 @@ export function StrategicOpening({ intro }) {
     </div>
     <div className="city-triptych" ref={art}>
       {['Hukum', 'Keuangan', 'Manajemen'].map((name, index) => <div className="city-panel" key={name}>
-        <div className={`city-slice city-slice-${index}`}><img src="/images/city.jpg" width="1200" height="800" alt="" /></div>
+        <div className={`city-slice city-slice-${index}`}><img src={sitePath('/images/city.jpg')} width="1200" height="800" alt="" /></div>
         <span>{name}</span>
       </div>)}
     </div>
