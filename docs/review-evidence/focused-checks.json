@@ -1,0 +1,74 @@
+{
+  "browser": "Chrome/156.0.8078.47",
+  "checks": [
+    {
+      "device": {
+        "name": "compact-laptop",
+        "width": 1280,
+        "height": 720,
+        "mobile": false
+      },
+      "style": {
+        "heroParagraph": {
+          "color": "rgb(153, 153, 153)",
+          "font": "Alegreya, sans-serif",
+          "size": "22px",
+          "lineHeight": "39.6px",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        "heroHeading": {
+          "font": "\"Cinzel Decorative\", sans-serif",
+          "size": "70px"
+        },
+        "width": 1280,
+        "viewport": 1280,
+        "scrollY": 0
+      },
+      "keyboard": null
+    },
+    {
+      "device": {
+        "name": "phone",
+        "width": 390,
+        "height": 844,
+        "mobile": true
+      },
+      "style": {
+        "heroParagraph": {
+          "color": "rgb(153, 153, 153)",
+          "font": "Alegreya, sans-serif",
+          "size": "22px",
+          "lineHeight": "39.6px",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        "heroHeading": {
+          "font": "\"Cinzel Decorative\", sans-serif",
+          "size": "35px"
+        },
+        "width": 390,
+        "viewport": 390,
+        "scrollY": 0
+      },
+      "keyboard": {
+        "order": [
+          {
+            "tag": "A",
+            "role": null,
+            "label": null,
+            "text": "",
+            "toggle": false
+          },
+          {
+            "tag": "DIV",
+            "role": "button",
+            "label": "Menu Toggle",
+            "text": "",
+            "toggle": true
+          }
+        ],
+        "opened": "true",
+        "afterEscape": "true"
+      }
+    }
+  ]
+}

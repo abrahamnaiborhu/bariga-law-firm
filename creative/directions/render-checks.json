@@ -1,0 +1,230 @@
+[
+  {
+    "key": "a",
+    "variant": "board",
+    "measure": {
+      "fonts": [
+        {
+          "family": "Instrument",
+          "status": "loaded"
+        },
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        },
+        {
+          "family": "Space",
+          "status": "unloaded"
+        }
+      ],
+      "overflowing": [],
+      "panels": [
+        {
+          "width": 1280,
+          "height": 720,
+          "bottomOverflow": []
+        },
+        {
+          "width": 390,
+          "height": 844,
+          "bottomOverflow": []
+        },
+        {
+          "width": 1280,
+          "height": 720,
+          "bottomOverflow": []
+        },
+        {
+          "width": 390,
+          "height": 1000,
+          "bottomOverflow": []
+        },
+        {
+          "width": 1280,
+          "height": 190,
+          "bottomOverflow": []
+        }
+      ]
+    }
+  },
+  {
+    "key": "a",
+    "variant": "home",
+    "measure": {
+      "fonts": [
+        {
+          "family": "Instrument",
+          "status": "loaded"
+        },
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        },
+        {
+          "family": "Space",
+          "status": "unloaded"
+        }
+      ],
+      "overflowing": [],
+      "panels": [
+        {
+          "width": 1280,
+          "height": 720,
+          "bottomOverflow": []
+        }
+      ]
+    }
+  },
+  {
+    "key": "b",
+    "variant": "board",
+    "measure": {
+      "fonts": [
+        {
+          "family": "Instrument",
+          "status": "unloaded"
+        },
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        },
+        {
+          "family": "Space",
+          "status": "loaded"
+        }
+      ],
+      "overflowing": [],
+      "panels": [
+        {
+          "width": 1280,
+          "height": 720,
+          "bottomOverflow": []
+        },
+        {
+          "width": 390,
+          "height": 844,
+          "bottomOverflow": []
+        },
+        {
+          "width": 1280,
+          "height": 720,
+          "bottomOverflow": []
+        },
+        {
+          "width": 390,
+          "height": 1000,
+          "bottomOverflow": []
+        },
+        {
+          "width": 1280,
+          "height": 190,
+          "bottomOverflow": []
+        }
+      ]
+    }
+  },
+  {
+    "key": "b",
+    "variant": "home",
+    "measure": {
+      "fonts": [
+        {
+          "family": "Instrument",
+          "status": "unloaded"
+        },
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        },
+        {
+          "family": "Space",
+          "status": "loaded"
+        }
+      ],
+      "overflowing": [],
+      "panels": [
+        {
+          "width": 1280,
+          "height": 720,
+          "bottomOverflow": []
+        }
+      ]
+    }
+  },
+  {
+    "key": "c",
+    "variant": "board",
+    "measure": {
+      "fonts": [
+        {
+          "family": "Instrument",
+          "status": "unloaded"
+        },
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        },
+        {
+          "family": "Space",
+          "status": "unloaded"
+        }
+      ],
+      "overflowing": [],
+      "panels": [
+        {
+          "width": 1280,
+          "height": 720,
+          "bottomOverflow": []
+        },
+        {
+          "width": 390,
+          "height": 844,
+          "bottomOverflow": []
+        },
+        {
+          "width": 1280,
+          "height": 720,
+          "bottomOverflow": []
+        },
+        {
+          "width": 390,
+          "height": 1000,
+          "bottomOverflow": []
+        },
+        {
+          "width": 1280,
+          "height": 190,
+          "bottomOverflow": []
+        }
+      ]
+    }
+  },
+  {
+    "key": "c",
+    "variant": "home",
+    "measure": {
+      "fonts": [
+        {
+          "family": "Instrument",
+          "status": "unloaded"
+        },
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        },
+        {
+          "family": "Space",
+          "status": "unloaded"
+        }
+      ],
+      "overflowing": [],
+      "panels": [
+        {
+          "width": 1280,
+          "height": 720,
+          "bottomOverflow": []
+        }
+      ]
+    }
+  }
+]

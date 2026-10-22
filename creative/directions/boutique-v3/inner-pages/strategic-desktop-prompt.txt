@@ -1,0 +1,16 @@
+Use case: ui-mockup. Continue the BARIGA LAW FIRM v3 website shown in reference image 1. This is the preferred direction for further development: intimate, editorial and quietly distinctive, a contemporary specialist law boutique. Reference image 1 supplies the visual language, not a hero layout to duplicate: warm ivory paper, ink-blue identity, charcoal text, elegant contemporary serif headings with restrained italic accents, legible clean body text, disciplined margins and taupe hairlines. Reference image 2 is the original blue BLF scales logo; preserve the artwork, blue, letters and proportions. Keep the compact v3 brand lockup and the SAME navigation Home, About Us, Practice Areas, Layanan Strategis, Konsultasi. Show a small active-page underline. Use quiet underlined arrow actions consistently, not large filled buttons. One flat high-fidelity desktop webpage, no browser chrome, device, collage, external annotations or invented UI. Show substantive inner-page content, with readable type. Typography and information should express the page purpose; do not repeat the architectural homepage hero. No new claims, achievements, awards, testimonials, years, staff, taglines or locations. Preserve the supplied copy and the original logo. Generated raster studies do not establish exact font identity or functional behavior.
+PAGE: LAYANAN STRATEGIS. A complete editorial desktop page around 1440px wide and 1400px tall. Same compact header, active 'Layanan Strategis'. The title uses the existing words 'TRAINING AND CONSULTING' (case may be typeset elegantly), with a restrained italic emphasis on 'Consulting'. The full original introduction sits alongside. Below, a clearly explained typographic relationship between HUKUM, KEUANGAN and MANAJEMEN, connected with the finest hairlines into the existing phrase 'Legal & Business Strategy'. This is an explanatory diagram in typography, not colored circles, a finance dashboard or an abstract sculpture. Keep labels readable and the concept immediately understandable. Follow with THREE full original service offerings as generous stacked editorial sections, each name and paragraph given comfortable reading measure. No pricing, fees, programs or invented promises. Finish with a quiet 'Konsultasi' arrow link and the original disclaimer. This page has its own explanatory composition, not a repeat of the photographic homepage. ALL ORIGINAL INTRODUCTION AND OFFERING COPY, VERBATIM:
+Selain layanan hukum, Bariga Law Firm juga mendukung perusahaan dalam meningkatkan tata kelola bisnis, restrukturisasi keuangan, dan pengembangan manajemen. Dengan pengalaman unik di bidang hukum, keuangan, dan manajemen, kami menghadirkan pendekatan terpadu untuk menjawab tantangan bisnis modern.
+
+Business Process Training
+
+Memberikan pelatihan terstruktur mengenai efisiensi alur kerja, penyusunan SOP, dan manajemen risiko operasional
+
+Finance & Restructuring
+
+Layanan konsultasi untuk restrukturisasi keuangan perusahaan, strategi keberlanjutan, dan manajemen krisis finansial.
+
+Law & Compliance Training
+
+Pelatihan kepatuhan hukum korporat, perancangan kontrak bisnis, perlindungan data (UU PDP), & corporate governance.
+Footer disclaimer: Informasi di situs ini bersifat umum dan tidak merupakan nasihat hukum yang mengikat. Konsultasikan langsung dengan advokat kami untuk pendapat hukum spesifik.

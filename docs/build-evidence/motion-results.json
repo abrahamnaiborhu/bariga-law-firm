@@ -1,0 +1,51 @@
+{
+  "runs": [
+    {
+      "width": 390,
+      "strategyStart": {
+        "active": 12,
+        "stroke": "1px",
+        "result": "0.2"
+      },
+      "strategyMid": {
+        "stroke": "0.319229px",
+        "result": "0.2"
+      },
+      "strategyEnd": {
+        "active": 0,
+        "stroke": "0px",
+        "result": "1"
+      },
+      "reduced": {
+        "active": 0,
+        "result": "1"
+      },
+      "enabled": 3,
+      "cancelled": 0
+    },
+    {
+      "width": 1280,
+      "strategyStart": {
+        "active": 12,
+        "stroke": "1px",
+        "result": "0.2"
+      },
+      "strategyMid": {
+        "stroke": "0.286655px",
+        "result": "0.2"
+      },
+      "strategyEnd": {
+        "active": 0,
+        "stroke": "0px",
+        "result": "1"
+      },
+      "reduced": {
+        "active": 0,
+        "result": "1"
+      },
+      "enabled": 3,
+      "cancelled": 0
+    }
+  ],
+  "errors": []
+}

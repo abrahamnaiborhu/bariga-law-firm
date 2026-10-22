@@ -1,0 +1,1149 @@
+{
+  "copyChecks": [
+    {
+      "route": "/about-us/",
+      "missing": []
+    },
+    {
+      "route": "/practice-areas/",
+      "missing": []
+    },
+    {
+      "route": "/lain-lain/",
+      "missing": []
+    },
+    {
+      "route": "/konsultasi/",
+      "missing": []
+    }
+  ],
+  "invalidHash": true,
+  "enlarged": {
+    "overflow": false,
+    "menu": true
+  },
+  "keyboard": {
+    "tag": "A",
+    "text": "Langsung ke konten"
+  },
+  "performanceSample": {
+    "metrics": {
+      "lcp": 1424,
+      "cls": 0
+    },
+    "transfer": 170447,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:4173/assets/main-C0fNfLku.js",
+        "transfer": 75874
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/main-BcWhkVJA.css",
+        "transfer": 7340
+      },
+      {
+        "name": "http://127.0.0.1:4173/images/logo.png",
+        "transfer": 40812
+      },
+      {
+        "name": "http://127.0.0.1:4173/images/architecture-small.jpg",
+        "transfer": 46421
+      }
+    ]
+  },
+  "browser": "Chrome/156.0.8078.47",
+  "mode": "Headless Chrome on macOS, viewport emulation; no physical-device testing",
+  "checks": [
+    {
+      "width": 320,
+      "route": "/",
+      "title": "Home — Bariga Law Firm",
+      "h1": "Integrity,Strategy &Justice",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/architecture.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/partner.jpg",
+          "ok": false,
+          "lazy": true
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 320,
+      "route": "/about-us/",
+      "title": "About Us — Bariga Law Firm",
+      "h1": "TentangKami",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/partner-cutout.webp",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 320,
+      "route": "/practice-areas/",
+      "title": "Practice Areas — Bariga Law Firm",
+      "h1": "PracticeAreas",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/desk.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 7,
+      "forms": 0
+    },
+    {
+      "width": 320,
+      "route": "/lain-lain/",
+      "title": "Layanan Strategis — Bariga Law Firm",
+      "h1": "Training &Consulting",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 3,
+      "forms": 0
+    },
+    {
+      "width": 320,
+      "route": "/konsultasi/",
+      "title": "Konsultasi — Bariga Law Firm",
+      "h1": "Mari Diskusikan Kebutuhan Strategis Anda",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 360,
+      "route": "/",
+      "title": "Home — Bariga Law Firm",
+      "h1": "Integrity,Strategy &Justice",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/architecture.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/partner.jpg",
+          "ok": false,
+          "lazy": true
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 360,
+      "route": "/about-us/",
+      "title": "About Us — Bariga Law Firm",
+      "h1": "TentangKami",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/partner-cutout.webp",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 360,
+      "route": "/practice-areas/",
+      "title": "Practice Areas — Bariga Law Firm",
+      "h1": "PracticeAreas",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/desk.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 7,
+      "forms": 0
+    },
+    {
+      "width": 360,
+      "route": "/lain-lain/",
+      "title": "Layanan Strategis — Bariga Law Firm",
+      "h1": "Training &Consulting",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 3,
+      "forms": 0
+    },
+    {
+      "width": 360,
+      "route": "/konsultasi/",
+      "title": "Konsultasi — Bariga Law Firm",
+      "h1": "Mari Diskusikan Kebutuhan Strategis Anda",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "title": "Home — Bariga Law Firm",
+      "h1": "Integrity,Strategy &Justice",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/architecture.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/partner.jpg",
+          "ok": false,
+          "lazy": true
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 390,
+      "route": "/about-us/",
+      "title": "About Us — Bariga Law Firm",
+      "h1": "TentangKami",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/partner-cutout.webp",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 390,
+      "route": "/practice-areas/",
+      "title": "Practice Areas — Bariga Law Firm",
+      "h1": "PracticeAreas",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/desk.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 7,
+      "forms": 0
+    },
+    {
+      "width": 390,
+      "route": "/lain-lain/",
+      "title": "Layanan Strategis — Bariga Law Firm",
+      "h1": "Training &Consulting",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 3,
+      "forms": 0
+    },
+    {
+      "width": 390,
+      "route": "/konsultasi/",
+      "title": "Konsultasi — Bariga Law Firm",
+      "h1": "Mari Diskusikan Kebutuhan Strategis Anda",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 768,
+      "route": "/",
+      "title": "Home — Bariga Law Firm",
+      "h1": "Integrity,Strategy &Justice",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/architecture.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/partner.jpg",
+          "ok": true,
+          "lazy": true
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 768,
+      "route": "/about-us/",
+      "title": "About Us — Bariga Law Firm",
+      "h1": "TentangKami",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/partner-cutout.webp",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 768,
+      "route": "/practice-areas/",
+      "title": "Practice Areas — Bariga Law Firm",
+      "h1": "PracticeAreas",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/desk.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 7,
+      "forms": 0
+    },
+    {
+      "width": 768,
+      "route": "/lain-lain/",
+      "title": "Layanan Strategis — Bariga Law Firm",
+      "h1": "Training &Consulting",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 3,
+      "forms": 0
+    },
+    {
+      "width": 768,
+      "route": "/konsultasi/",
+      "title": "Konsultasi — Bariga Law Firm",
+      "h1": "Mari Diskusikan Kebutuhan Strategis Anda",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 1024,
+      "route": "/",
+      "title": "Home — Bariga Law Firm",
+      "h1": "Integrity,Strategy &Justice",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/architecture.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/partner.jpg",
+          "ok": true,
+          "lazy": true
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 1024,
+      "route": "/about-us/",
+      "title": "About Us — Bariga Law Firm",
+      "h1": "TentangKami",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/partner-cutout.webp",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 1024,
+      "route": "/practice-areas/",
+      "title": "Practice Areas — Bariga Law Firm",
+      "h1": "PracticeAreas",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/desk.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 7,
+      "forms": 0
+    },
+    {
+      "width": 1024,
+      "route": "/lain-lain/",
+      "title": "Layanan Strategis — Bariga Law Firm",
+      "h1": "Training &Consulting",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 3,
+      "forms": 0
+    },
+    {
+      "width": 1024,
+      "route": "/konsultasi/",
+      "title": "Konsultasi — Bariga Law Firm",
+      "h1": "Mari Diskusikan Kebutuhan Strategis Anda",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 1280,
+      "route": "/",
+      "title": "Home — Bariga Law Firm",
+      "h1": "Integrity,Strategy &Justice",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/architecture.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/partner.jpg",
+          "ok": true,
+          "lazy": true
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 1280,
+      "route": "/about-us/",
+      "title": "About Us — Bariga Law Firm",
+      "h1": "TentangKami",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/partner-cutout.webp",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 1280,
+      "route": "/practice-areas/",
+      "title": "Practice Areas — Bariga Law Firm",
+      "h1": "PracticeAreas",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/desk.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 7,
+      "forms": 0
+    },
+    {
+      "width": 1280,
+      "route": "/lain-lain/",
+      "title": "Layanan Strategis — Bariga Law Firm",
+      "h1": "Training &Consulting",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 3,
+      "forms": 0
+    },
+    {
+      "width": 1280,
+      "route": "/konsultasi/",
+      "title": "Konsultasi — Bariga Law Firm",
+      "h1": "Mari Diskusikan Kebutuhan Strategis Anda",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 1440,
+      "route": "/",
+      "title": "Home — Bariga Law Firm",
+      "h1": "Integrity,Strategy &Justice",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/architecture.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/partner.jpg",
+          "ok": true,
+          "lazy": true
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 1440,
+      "route": "/about-us/",
+      "title": "About Us — Bariga Law Firm",
+      "h1": "TentangKami",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/partner-cutout.webp",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    },
+    {
+      "width": 1440,
+      "route": "/practice-areas/",
+      "title": "Practice Areas — Bariga Law Firm",
+      "h1": "PracticeAreas",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/desk.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 7,
+      "forms": 0
+    },
+    {
+      "width": 1440,
+      "route": "/lain-lain/",
+      "title": "Layanan Strategis — Bariga Law Firm",
+      "h1": "Training &Consulting",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/city.jpg",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 3,
+      "forms": 0
+    },
+    {
+      "width": 1440,
+      "route": "/konsultasi/",
+      "title": "Konsultasi — Bariga Law Firm",
+      "h1": "Mari Diskusikan Kebutuhan Strategis Anda",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        },
+        {
+          "src": "/images/logo.png",
+          "ok": true,
+          "lazy": false
+        }
+      ],
+      "brokenLinks": 0,
+      "services": 0,
+      "forms": 0
+    }
+  ],
+  "menuOpen": true,
+  "menuEscape": true,
+  "anchor": {
+    "y": 29.71875,
+    "hash": "#arbitrase"
+  },
+  "contact": {
+    "path": "/konsultasi/",
+    "wa": "https://wa.me/6281295798826",
+    "email": "mailto:mesa.naiborhu@barigalawfirm.com"
+  },
+  "back": {
+    "path": "/practice-areas/",
+    "hash": "#arbitrase",
+    "y": 29.71875
+  },
+  "refresh": 29.71875,
+  "reduced": "0s",
+  "imageFailure": {
+    "heading": true,
+    "action": "http://127.0.0.1:4173/konsultasi/",
+    "overflow": false
+  },
+  "errors": [],
+  "network": [
+    {
+      "type": "failed",
+      "error": "",
+      "resourceType": "Image"
+    },
+    {
+      "type": "failed",
+      "error": "",
+      "resourceType": "Image"
+    },
+    {
+      "type": "failed",
+      "error": "",
+      "resourceType": "Image"
+    },
+    {
+      "type": "failed",
+      "error": "",
+      "resourceType": "Image"
+    },
+    {
+      "type": "failed",
+      "error": "",
+      "resourceType": "Image"
+    },
+    {
+      "type": "failed",
+      "error": "",
+      "resourceType": "Image"
+    },
+    {
+      "type": "failed",
+      "error": "",
+      "resourceType": "Image"
+    },
+    {
+      "type": "failed",
+      "error": "",
+      "resourceType": "Image"
+    },
+    {
+      "type": "failed",
+      "error": "",
+      "resourceType": "Image"
+    },
+    {
+      "type": "failed",
+      "error": "",
+      "resourceType": "Image"
+    }
+  ]
+}

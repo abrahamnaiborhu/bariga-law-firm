@@ -1,0 +1,24 @@
+Use case: ui-mockup. Continue the BARIGA LAW FIRM v3 website shown in reference image 1. This is the preferred direction for further development: intimate, editorial and quietly distinctive, a contemporary specialist law boutique. Reference image 1 supplies the visual language, not a hero layout to duplicate: warm ivory paper, ink-blue identity, charcoal text, elegant contemporary serif headings with restrained italic accents, legible clean body text, disciplined margins and taupe hairlines. Reference image 2 is the original blue BLF scales logo; preserve the artwork, blue, letters and proportions. Keep the compact v3 brand lockup and the SAME navigation Home, About Us, Practice Areas, Layanan Strategis, Konsultasi. Show a small active-page underline. Use quiet underlined arrow actions consistently, not large filled buttons. One flat high-fidelity desktop webpage, no browser chrome, device, collage, external annotations or invented UI. Show substantive inner-page content, with readable type. Typography and information should express the page purpose; do not repeat the architectural homepage hero. No new claims, achievements, awards, testimonials, years, staff, taglines or locations. Preserve the supplied copy and the original logo. Generated raster studies do not establish exact font identity or functional behavior.
+PAGE: ABOUT US. Landscape-to-portrait editorial page about 1440px wide and 1600px tall; allow enough page height for all copy instead of shrinking text. Opening: large calm title 'TENTANG KAMI', original firm introduction beside it, generous but efficient space. Next substantive band: the original partner portrait (reference image 3) on the left as a naturally cropped editorial photograph, around one-third page width, with the full heading 'Pesan dari Managing Partner' and the COMPLETE existing message in a comfortable reading column on the right. IMAGE 3 IS THE REAL SUPPLIED PERSON: preserve his actual face, age, glasses, grey hair, suit, yellow tie, expression and body; use the photo faithfully, not a newly invented lawyer. Do not turn this into a large solo-person hero. Place the full original name/credentials exactly beneath the message, with 'Managing Partner'. Use remaining copy in an elegant light lower section connecting the business-strategy explanation to the three-domain approach; no decorative boxes or fake icons. One restrained consultation action at the bottom. Keep a small original disclaimer footer. ALL EXISTING COPY, VERBATIM:
+BARIGA LAW FIRM adalah firma hukum strategis yang didirikan di atas tiga pilar: Integritas, Strategi, dan Keadilan. Misi kami adalah memberikan solusi hukum terintegrasi yang tidak hanya menyelesaikan masalah, tetapi juga menciptakan nilai tambah dan kepastian bagi pertumbuhan bisnis klien kami.
+
+Pesan dari Managing Partner
+
+“Kami percaya bahwa masalah hukum dalam bisnis jarang berdiri sendiri. Tantangan tersebut seringkali berakar pada isu keuangan, operasional, atau strategis.
+
+Di BARIGA LAW FIRM,  Setiap kasus dan transaksi kami analisis melalui tiga lensa terintegrasi: Kepatuhan Hukum, Kelayakan Finansial, dan Strategi Manajemen. Pendekatan holistik inilah yang memungkinkan kami memberikan rekomendasi yang tidak hanya aman secara yuridis, tetapi juga cerdas secara komersial.”
+
+— Mesa Indra Naiborhu, S.P., S.H., M.H., CPM.
+
+Managing Partner
+
+Melampaui Nasihat Hukum: Mitra Strategis Bisnis Anda
+
+Kami memahami bahwa kebutuhan bisnis modern melampaui litigasi. BARIGA LAW FIRM juga menyediakan layanan konsultasi bisnis, restrukturisasi keuangan, dan training.
+
+Contact Us
+Irisan Kompetensi: Hukum, Keuangan & Manajemen
+
+Posisi unik kami sebagai Legal & Business Strategist memungkinkan kami menjembatani kebutuhan kepatuhan hukum dengan solusi keuangan dan manajemen yang praktis
+Footer disclaimer, verbatim: Informasi di situs ini bersifat umum dan tidak merupakan nasihat hukum yang mengikat. Konsultasikan langsung dengan advokat kami untuk pendapat hukum spesifik.
+The page should feel part of the same firm as the v3 homepage but have its own portrait-and-reading composition. No architectural filler imagery is needed. Do not omit the partner message or replace it with placeholder text.

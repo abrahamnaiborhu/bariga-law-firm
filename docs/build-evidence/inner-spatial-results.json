@@ -1,0 +1,343 @@
+{
+  "scenes": [
+    {
+      "width": 1280,
+      "route": "/practice-areas/",
+      "requested": 0,
+      "progress": "0.000",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 1280,
+      "route": "/practice-areas/",
+      "requested": 0.5,
+      "progress": "0.500",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 1280,
+      "route": "/practice-areas/",
+      "requested": 1,
+      "progress": "1.000",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 1280,
+      "route": "/practice-areas/",
+      "requested": 0.5,
+      "progress": "0.500",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 1280,
+      "route": "/practice-areas/",
+      "requested": 0,
+      "progress": "0.000",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 1280,
+      "route": "/lain-lain/",
+      "requested": 0,
+      "progress": "0.000",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 1280,
+      "route": "/lain-lain/",
+      "requested": 0.5,
+      "progress": "0.500",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 1280,
+      "route": "/lain-lain/",
+      "requested": 1,
+      "progress": "1.000",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 1280,
+      "route": "/lain-lain/",
+      "requested": 0.5,
+      "progress": "0.500",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 1280,
+      "route": "/lain-lain/",
+      "requested": 0,
+      "progress": "0.000",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 390,
+      "route": "/practice-areas/",
+      "requested": 0,
+      "progress": "0.000",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 390,
+      "route": "/practice-areas/",
+      "requested": 0.5,
+      "progress": "0.499",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 390,
+      "route": "/practice-areas/",
+      "requested": 1,
+      "progress": "1.000",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 390,
+      "route": "/practice-areas/",
+      "requested": 0.5,
+      "progress": "0.499",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 390,
+      "route": "/practice-areas/",
+      "requested": 0,
+      "progress": "0.000",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 390,
+      "route": "/lain-lain/",
+      "requested": 0,
+      "progress": "0.000",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 390,
+      "route": "/lain-lain/",
+      "requested": 0.5,
+      "progress": "0.499",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 390,
+      "route": "/lain-lain/",
+      "requested": 1,
+      "progress": "1.000",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 390,
+      "route": "/lain-lain/",
+      "requested": 0.5,
+      "progress": "0.499",
+      "overflow": false,
+      "h1": 1
+    },
+    {
+      "width": 390,
+      "route": "/lain-lain/",
+      "requested": 0,
+      "progress": "0.000",
+      "overflow": false,
+      "h1": 1
+    }
+  ],
+  "readings": [
+    {
+      "width": 1280,
+      "route": "/about-us/",
+      "requested": 0.15,
+      "progress": "0.150",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "/about-us/",
+      "requested": 0.65,
+      "progress": "0.650",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "/about-us/",
+      "requested": 1,
+      "progress": "1.000",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "/about-us/",
+      "requested": 0.15,
+      "progress": "0.150",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "/lain-lain/",
+      "requested": 0.15,
+      "progress": "0.149",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "/lain-lain/",
+      "requested": 0.65,
+      "progress": "0.649",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "/lain-lain/",
+      "requested": 1,
+      "progress": "1.000",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "/lain-lain/",
+      "requested": 0.15,
+      "progress": "0.149",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "/konsultasi/",
+      "requested": 0.15,
+      "progress": "0.150",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "/konsultasi/",
+      "requested": 0.65,
+      "progress": "0.650",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "/konsultasi/",
+      "requested": 1,
+      "progress": "1.000",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "/konsultasi/",
+      "requested": 0.15,
+      "progress": "0.150",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/about-us/",
+      "requested": 0.15,
+      "progress": "0.150",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/about-us/",
+      "requested": 0.65,
+      "progress": "0.650",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/about-us/",
+      "requested": 1,
+      "progress": "1.000",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/about-us/",
+      "requested": 0.15,
+      "progress": "0.150",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/lain-lain/",
+      "requested": 0.15,
+      "progress": "0.151",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/lain-lain/",
+      "requested": 0.65,
+      "progress": "0.650",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/lain-lain/",
+      "requested": 1,
+      "progress": "1.000",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/lain-lain/",
+      "requested": 0.15,
+      "progress": "0.151",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/konsultasi/",
+      "requested": 0.15,
+      "progress": "0.150",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/konsultasi/",
+      "requested": 0.65,
+      "progress": "0.650",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/konsultasi/",
+      "requested": 1,
+      "progress": "1.000",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/konsultasi/",
+      "requested": 0.15,
+      "progress": "0.150",
+      "overflow": false
+    }
+  ],
+  "reduced": {
+    "progress": "1.000",
+    "animations": 0
+  },
+  "deep": {
+    "top": 29.609375,
+    "active": "#arbitrase"
+  },
+  "errors": []
+}

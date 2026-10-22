@@ -1,0 +1,41 @@
+CINEMATIC WEB DIRECTOR — PHASE 0 PREFLIGHT
+Project: /Users/abrahampardomuannaiborhu/Documents/Development/Website Papa
+Phase: prototype | Agent: codex
+Gate: DEGRADED | 8/8 reviewed (NOT 8/8 passed)
+
+[UNVERIFIED; declaration] 1. AI agent identification
+  Active agent: codex.
+  evidence: Provided explicitly by the invoking agent/user; not independently attested.
+  next: Confirm active-agent identity and permissions in the session; this process cannot attest them.
+
+[VERIFIED; filesystem] 2. Cinematic Web Director Skill
+  Skill entry point and required references are readable on disk.
+  evidence: /Users/abrahampardomuannaiborhu/.agents/skills/cinematic-web-director/SKILL.md
+  next: Agent must also confirm that it has loaded SKILL.md instructions; disk access alone does not prove activation.
+
+[DEFERRED; filesystem] 3. GreenSock official GSAP Skills
+  This approved batch declares no GSAP work; skill requirements are deferred.
+  evidence: Optional suite skills absent: gsap-timeline, gsap-scrolltrigger, gsap-plugins, gsap-utils, gsap-frameworks
+
+[VERIFIED; filesystem] 4. Project environment
+  Selected source: /Users/abrahampardomuannaiborhu/Documents/Development/Website Papa; source type from local evidence: React; package manager: npm.
+  evidence: /Users/abrahampardomuannaiborhu/Documents/Development/Website Papa/package.json
+
+[VERIFIED; filesystem] 5. Project script
+  Found readable nonempty script/brief: MOTION_PLAN.md.
+  evidence: /Users/abrahampardomuannaiborhu/Documents/Development/Website Papa/docs/MOTION_PLAN.md
+  next: Read and assess the script: file presence does not guarantee narrative completeness.
+
+[DEFERRED; filesystem] 6. GSAP runtime package
+  This approved batch declares no GSAP work; runtime requirements are deferred.
+
+[MISSING; filesystem] 7. Browser and visual testing
+  No local browser/test tools detected; remote agent browser tools cannot be inspected here.
+  next: Agent: use browser/MCP tooling or manual QA to test a rendered website, capture desktop and mobile screenshots, and verify navigation/interaction.
+  next: For release supply non-interlaced 8-bit PNG captures at distinct desktop/mobile widths and attest interactions only after real QA.
+
+[DEFERRED; filesystem] 8. Optional creative tools
+  No optional tools detected; choose them only when the treatment requires them.
+  next: Use tools required by approved scope; their declarations do not prove installation.
+
+Technical scope is not blocked. Creative/prototype/sprint approvals and live QA remain agent-side gates.

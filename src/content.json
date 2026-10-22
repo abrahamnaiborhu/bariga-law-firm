@@ -1,0 +1,114 @@
+{
+  "contact": {
+    "whatsapp": "+62 812-9579-8826",
+    "email": "mesa.naiborhu@barigalawfirm.com",
+    "address": "Jl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)"
+  },
+  "disclaimer": "Informasi di situs ini bersifat umum dan tidak merupakan nasihat hukum yang mengikat. Konsultasikan langsung dengan advokat kami untuk pendapat hukum spesifik.",
+  "practiceIntro": "Keahlian kami mencakup berbagai disiplin hukum yang vital bagi korporasi modern maupun kebutuhan individu. Dari restrukturisasi keuangan dan transaksi bisnis yang kompleks, arbitrase komersial, hingga penyelesaian sengketa pidana dan perdata.",
+  "practices": [
+    {
+      "id": "perdata-bisnis",
+      "title": "Hukum Perdata & Bisnis",
+      "text": "Pendampingan penuh untuk pendirian perusahaan, perancangan kontrak, aksi korporasi, dan kepatuhan regulasi untuk mengamankan setiap aspek operasional bisnis Anda."
+    },
+    {
+      "id": "kepailitan-pkpu",
+      "title": "Hukum Kepailitan & PKPU",
+      "text": "Memberikan solusi strategis bagi kreditur atau debitur dalam menavigasi proses restrukturisasi utang yang kompleks, kepailitan, dan Penundaan Kewajiban Pembayaran Utang (PKPU)."
+    },
+    {
+      "id": "pidana",
+      "title": "Hukum Pidana (Umum & Bisnis)",
+      "text": "Pendampingan ahli di setiap tahap proses peradilan pidana, baik untuk kasus pidana umum maupun pidana khusus di bidang bisnis (kejahatan korporasi dan kerah putih)"
+    },
+    {
+      "id": "arbitrase",
+      "title": "Arbitrase & Penyelesaian Sengketa",
+      "text": "Representasi klien dalam forum arbitrase nasional (BANI) maupun internasional, serta mediasi, menawarkan penyelesaian sengketa yang efisien di luar litigasi pengadilan."
+    },
+    {
+      "id": "keluarga-waris",
+      "title": "Hukum Keluarga & Waris",
+      "text": "Menangani permasalahan hukum keluarga yang sensitif, termasuk sengketa waris, hibah, wasiat, dan perjanjian pra-nikah dengan kerahasiaan dan profesionalisme penuh."
+    },
+    {
+      "id": "perbankan-keuangan",
+      "title": "Hukum Perbankan & Keuangan",
+      "text": "Nasihat komprehensif mengenai regulasi perbankan, perjanjian kredit, pembiayaan proyek, dan penyelesaian sengketa perbankan untuk melindungi transaksi finansial Anda."
+    },
+    {
+      "id": "teknologi-data",
+      "title": "Hukum Teknologi & Perlindungan Data",
+      "text": "Memastikan bisnis Anda patuh pada regulasi perlindungan data (UU PDP), serta menangani aspek hukum dalam kontrak IT, transaksi digital, dan keamanan siber."
+    }
+  ],
+  "strategicIntro": "Selain layanan hukum, Bariga Law Firm juga mendukung perusahaan dalam meningkatkan tata kelola bisnis, restrukturisasi keuangan, dan pengembangan manajemen. Dengan pengalaman unik di bidang hukum, keuangan, dan manajemen, kami menghadirkan pendekatan terpadu untuk menjawab tantangan bisnis modern.",
+  "strategic": [
+    {
+      "id": "business-process",
+      "title": "Business Process Training",
+      "text": "Memberikan pelatihan terstruktur mengenai efisiensi alur kerja, penyusunan SOP, dan manajemen risiko operasional"
+    },
+    {
+      "id": "finance-restructuring",
+      "title": "Finance & Restructuring",
+      "text": "Layanan konsultasi untuk restrukturisasi keuangan perusahaan, strategi keberlanjutan, dan manajemen krisis finansial."
+    },
+    {
+      "id": "law-compliance",
+      "title": "Law & Compliance Training",
+      "text": "Pelatihan kepatuhan hukum korporat, perancangan kontrak bisnis, perlindungan data (UU PDP), & corporate governance."
+    }
+  ],
+  "aboutIntro": "BARIGA LAW FIRM adalah firma hukum strategis yang didirikan di atas tiga pilar: Integritas, Strategi, dan Keadilan. Misi kami adalah memberikan solusi hukum terintegrasi yang tidak hanya menyelesaikan masalah, tetapi juga menciptakan nilai tambah dan kepastian bagi pertumbuhan bisnis klien kami.",
+  "partnerMessage": [
+    "“Kami percaya bahwa masalah hukum dalam bisnis jarang berdiri sendiri. Tantangan tersebut seringkali berakar pada isu keuangan, operasional, atau strategis.",
+    "Di BARIGA LAW FIRM,  Setiap kasus dan transaksi kami analisis melalui tiga lensa terintegrasi: Kepatuhan Hukum, Kelayakan Finansial, dan Strategi Manajemen. Pendekatan holistik inilah yang memungkinkan kami memberikan rekomendasi yang tidak hanya aman secara yuridis, tetapi juga cerdas secara komersial.”"
+  ],
+  "partnerName": "Mesa Indra Naiborhu, S.P., S.H., M.H., CPM.",
+  "beyondTitle": "Melampaui Nasihat Hukum: Mitra Strategis Bisnis Anda",
+  "beyondText": "Kami memahami bahwa kebutuhan bisnis modern melampaui litigasi. BARIGA LAW FIRM juga menyediakan layanan konsultasi bisnis, restrukturisasi keuangan, dan training.",
+  "intersectionTitle": "Irisan Kompetensi: Hukum, Keuangan & Manajemen",
+  "intersectionText": "Posisi unik kami sebagai Legal & Business Strategist memungkinkan kami menjembatani kebutuhan kepatuhan hukum dengan solusi keuangan dan manajemen yang praktis",
+  "consultIntro": "Setiap tantangan hukum dan bisnis yang kompleks memerlukan diskusi awal yang mendalam. Hubungi kami untuk menjadwalkan sesi konsultasi rahasia.",
+  "steps": [
+    {
+      "title": "Langkah 1: Jadwalkan Konsultasi",
+      "text": "Hubungi kami melalui WhatsApp atau email untuk mengatur jadwal diskusi awal yang fleksibel dan rahasia sesuai kenyamanan Anda."
+    },
+    {
+      "title": "Langkah 2: Analisis Kebutuhan",
+      "text": "Dalam sesi konsultasi, tim kami akan mendengarkan dan menganalisis situasi Anda secara komprehensif untuk memahami akar permasalahan dan tujuan akhir Anda."
+    },
+    {
+      "title": "Langkah 3: Rekomendasi Strategis",
+      "text": "Anda akan menerima gambaran umum mengenai opsi hukum dan rekomendasi strategi bisnis sebagai langkah awal untuk penyelesaian masalah Anda."
+    }
+  ],
+  "homeIntro": "BARIGA LAW FIRM adalah firma hukum modern yang menyediakan solusi hukum strategis bagi korporasi dan individu. Kami menggabungkan keahlian hukum yang mendalam dengan pemahaman bisnis yang tajam",
+  "homePracticeIntro": "Di BARIGA LAW FIRM, kami memahami bahwa setiap tantangan bisnis memiliki dimensi hukum yang unik. Kami tidak hanya menawarkan nasihat hukum, tetapi juga merancang strategi penyelesaian yang efisien dan terukur",
+  "homePartnerIntro": "Kami percaya masalah hukum dalam bisnis jarang berdiri sendiri. Oleh karena itu, BARIGA LAW FIRM hadir dengan pendekatan terpadu. Kami tidak hanya memastikan kepatuhan hukum Anda, tetapi juga berfungsi sebagai Legal & Business Strategist.",
+  "featured": [
+    {
+      "id": "perdata-bisnis",
+      "title": "Hukum Perdata & Bisnis",
+      "text": "Memberikan pendampingan hukum komprehensif mulai dari pendirian perusahaan, perancangan kontrak, hingga kepatuhan regulasi korporat."
+    },
+    {
+      "id": "kepailitan-pkpu",
+      "title": "Hukum Kepailitan & PKPU",
+      "text": "Membantu perusahaan menavigasi proses restrukturisasi utang  yang kompleks dan melindungi aset selama masa krisis finansial."
+    },
+    {
+      "id": "arbitrase",
+      "title": "Arbitrase & Penyelesaian Sengketa",
+      "text": "Menyediakan representasi strategis arbitrase dan mediasi untuk menyelesaikan sengketa bisnis di luar pengadilan."
+    },
+    {
+      "id": "perbankan-keuangan",
+      "title": "Hukum Perbankan & Keuangan",
+      "text": "Nasihat ahli mengenai regulasi finansial, perjanjian kredit, dan litigasi perbankan untuk melindungi transaksi keuangan Anda."
+    }
+  ]
+}

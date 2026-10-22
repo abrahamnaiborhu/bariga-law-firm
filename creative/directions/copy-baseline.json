@@ -1,0 +1,28 @@
+{
+  "home_intro": "BARIGA LAW FIRM adalah firma hukum modern yang menyediakan solusi hukum strategis bagi korporasi dan individu. Kami menggabungkan keahlian hukum yang mendalam dengan pemahaman bisnis yang tajam",
+  "practice_intro": "Keahlian kami mencakup berbagai disiplin hukum yang vital bagi korporasi modern maupun kebutuhan individu. Dari restrukturisasi keuangan dan transaksi bisnis yang kompleks, arbitrase komersial, hingga penyelesaian sengketa pidana dan perdata.",
+  "practice_names": [
+    "Hukum Perdata & Bisnis",
+    "Hukum Kepailitan & PKPU",
+    "Hukum Pidana (Umum & Bisnis)",
+    "Arbitrase & Penyelesaian Sengketa",
+    "Hukum Keluarga & Waris",
+    "Hukum Perbankan & Keuangan",
+    "Hukum Teknologi & Perlindungan Data"
+  ],
+  "practice_descriptions": [
+    "Pendampingan penuh untuk pendirian perusahaan, perancangan kontrak, aksi korporasi, dan kepatuhan regulasi untuk mengamankan setiap aspek operasional bisnis Anda.",
+    "Memberikan solusi strategis bagi kreditur atau debitur dalam menavigasi proses restrukturisasi utang yang kompleks, kepailitan, dan Penundaan Kewajiban Pembayaran Utang (PKPU).",
+    "Pendampingan ahli di setiap tahap proses peradilan pidana, baik untuk kasus pidana umum maupun pidana khusus di bidang bisnis (kejahatan korporasi dan kerah putih)",
+    "Representasi klien dalam forum arbitrase nasional (BANI) maupun internasional, serta mediasi, menawarkan penyelesaian sengketa yang efisien di luar litigasi pengadilan.",
+    "Menangani permasalahan hukum keluarga yang sensitif, termasuk sengketa waris, hibah, wasiat, dan perjanjian pra-nikah dengan kerahasiaan dan profesionalisme penuh.",
+    "Nasihat komprehensif mengenai regulasi perbankan, perjanjian kredit, pembiayaan proyek, dan penyelesaian sengketa perbankan untuk melindungi transaksi finansial Anda.",
+    "Memastikan bisnis Anda patuh pada regulasi perlindungan data (UU PDP), serta menangani aspek hukum dalam kontrak IT, transaksi digital, dan keamanan siber."
+  ],
+  "home_descriptions": [
+    "Memberikan pendampingan hukum komprehensif mulai dari pendirian perusahaan, perancangan kontrak, hingga kepatuhan regulasi korporat.",
+    "Membantu perusahaan menavigasi proses restrukturisasi utang  yang kompleks dan melindungi aset selama masa krisis finansial.",
+    "Menyediakan representasi strategis arbitrase dan mediasi untuk menyelesaikan sengketa bisnis di luar pengadilan.",
+    "Nasihat ahli mengenai regulasi finansial, perjanjian kredit, dan litigasi perbankan untuk melindungi transaksi keuangan Anda."
+  ]
+}

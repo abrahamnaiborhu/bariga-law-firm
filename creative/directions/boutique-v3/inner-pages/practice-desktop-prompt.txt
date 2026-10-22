@@ -1,0 +1,32 @@
+Use case: ui-mockup. Continue the BARIGA LAW FIRM v3 website shown in reference image 1. This is the preferred direction for further development: intimate, editorial and quietly distinctive, a contemporary specialist law boutique. Reference image 1 supplies the visual language, not a hero layout to duplicate: warm ivory paper, ink-blue identity, charcoal text, elegant contemporary serif headings with restrained italic accents, legible clean body text, disciplined margins and taupe hairlines. Reference image 2 is the original blue BLF scales logo; preserve the artwork, blue, letters and proportions. Keep the compact v3 brand lockup and the SAME navigation Home, About Us, Practice Areas, Layanan Strategis, Konsultasi. Show a small active-page underline. Use quiet underlined arrow actions consistently, not large filled buttons. One flat high-fidelity desktop webpage, no browser chrome, device, collage, external annotations or invented UI. Show substantive inner-page content, with readable type. Typography and information should express the page purpose; do not repeat the architectural homepage hero. No new claims, achievements, awards, testimonials, years, staff, taglines or locations. Preserve the supplied copy and the original logo. Generated raster studies do not establish exact font identity or functional behavior.
+PAGE: PRACTICE AREAS. A complete long desktop page about 1440px wide and 1900px tall. Show the entire catalogue of all SEVEN practices using the provided copy. Original title 'Practice Areas' at the top, a subtle italic emphasis on 'Practice' permitted. Place the full introductory paragraph in a comfortable adjacent column. Below, seven generously spaced editorial reading rows: small 01–07 identifiers in the margin, clear original practice title to the left, full original paragraph to the right, with very subtle horizontal rules and a discreet consultation arrow. No equal cards, no administrative table styling, no big architectural photo, no hero banner replacing content. Make it feel like a considered professional publication belonging to a boutique firm. The practice catalogue is the substance, including family/inheritance and criminal services; do not silently remove individual-client offerings. A quiet closing invitation 'Jadwalkan Sesi Strategis Anda' and 'Konsultasi' link, followed by the disclaimer. Make all seven headings and descriptions legible, never use lorem ipsum. If necessary increase the page height. VERBATIM INTRO AND ALL SEVEN PRACTICES:
+Keahlian kami mencakup berbagai disiplin hukum yang vital bagi korporasi modern maupun kebutuhan individu. Dari restrukturisasi keuangan dan transaksi bisnis yang kompleks, arbitrase komersial, hingga penyelesaian sengketa pidana dan perdata.
+
+Hukum Perdata & Bisnis
+
+Pendampingan penuh untuk pendirian perusahaan, perancangan kontrak, aksi korporasi, dan kepatuhan regulasi untuk mengamankan setiap aspek operasional bisnis Anda.
+
+Hukum Kepailitan & PKPU
+
+Memberikan solusi strategis bagi kreditur atau debitur dalam menavigasi proses restrukturisasi utang yang kompleks, kepailitan, dan Penundaan Kewajiban Pembayaran Utang (PKPU).
+
+Hukum Pidana (Umum & Bisnis)
+
+Pendampingan ahli di setiap tahap proses peradilan pidana, baik untuk kasus pidana umum maupun pidana khusus di bidang bisnis (kejahatan korporasi dan kerah putih)
+
+Arbitrase & Penyelesaian Sengketa
+
+Representasi klien dalam forum arbitrase nasional (BANI) maupun internasional, serta mediasi, menawarkan penyelesaian sengketa yang efisien di luar litigasi pengadilan.
+
+Hukum Keluarga & Waris
+
+Menangani permasalahan hukum keluarga yang sensitif, termasuk sengketa waris, hibah, wasiat, dan perjanjian pra-nikah dengan kerahasiaan dan profesionalisme penuh.
+
+Hukum Perbankan & Keuangan
+
+Nasihat komprehensif mengenai regulasi perbankan, perjanjian kredit, pembiayaan proyek, dan penyelesaian sengketa perbankan untuk melindungi transaksi finansial Anda.
+
+Hukum Teknologi & Perlindungan Data
+
+Memastikan bisnis Anda patuh pada regulasi perlindungan data (UU PDP), serta menangani aspek hukum dalam kontrak IT, transaksi digital, dan keamanan siber.
+Footer disclaimer, verbatim: Informasi di situs ini bersifat umum dan tidak merupakan nasihat hukum yang mengikat. Konsultasikan langsung dengan advokat kami untuk pendapat hukum spesifik.

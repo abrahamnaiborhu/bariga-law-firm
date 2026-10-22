@@ -1,0 +1,47 @@
+{
+  "lcp": [
+    {
+      "time": 804,
+      "url": "",
+      "element": "<p>BARIGA LAW FIRM adalah firma hukum modern yang menyediakan solusi hukum strategis bagi korporasi dan individu. Kami menggabungkan keahlian hukum yang mendalam dengan pemahaman b"
+    },
+    {
+      "time": 1804,
+      "url": "http://127.0.0.1:4173/images/architecture-small.jpg",
+      "element": "<img sizes=\"(max-width: 850px) 100vw, 43vw\" alt=\"\" width=\"1500\" height=\"844\" fetchpriority=\"high\" srcset=\"/images/architecture-small.jpg 700w, /images/architecture.jpg 1500w\" src=\""
+    }
+  ],
+  "scroll": 0,
+  "resources": [
+    {
+      "name": "http://127.0.0.1:4173/assets/main-DNOzvumv.js",
+      "time": 712.5999999999767,
+      "transfer": 74401
+    },
+    {
+      "name": "http://127.0.0.1:4173/assets/main-DbISmk7l.css",
+      "time": 352.29999999998836,
+      "transfer": 4340
+    },
+    {
+      "name": "http://127.0.0.1:4173/images/logo.png",
+      "time": 1695.2999999999884,
+      "transfer": 40812
+    },
+    {
+      "name": "http://127.0.0.1:4173/images/architecture-small.jpg",
+      "time": 1778.4000000000233,
+      "transfer": 46421
+    },
+    {
+      "name": "http://127.0.0.1:4173/images/desk.jpg",
+      "time": 2325.5999999999767,
+      "transfer": 150632
+    },
+    {
+      "name": "http://127.0.0.1:4173/images/logo.png",
+      "time": 1769.9000000000233,
+      "transfer": 40812
+    }
+  ]
+}

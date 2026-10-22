@@ -1,0 +1,386 @@
+{
+  "states": [
+    {
+      "width": 1440,
+      "height": 900,
+      "requested": 0,
+      "progress": "0.000",
+      "photo": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900
+      },
+      "stageTop": 0,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "requested": 0.5,
+      "progress": "0.501",
+      "photo": {
+        "x": 418.203125,
+        "y": 27.03125,
+        "width": 977.09375,
+        "height": 830.921875
+      },
+      "stageTop": 0,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "requested": 1,
+      "progress": "1.000",
+      "photo": {
+        "x": 835.1875,
+        "y": 54,
+        "width": 515.546875,
+        "height": 762
+      },
+      "stageTop": 0,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "requested": 0.5,
+      "progress": "0.501",
+      "photo": {
+        "x": 418.203125,
+        "y": 27.03125,
+        "width": 977.09375,
+        "height": 830.921875
+      },
+      "stageTop": 0,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "requested": 0,
+      "progress": "0.000",
+      "photo": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900
+      },
+      "stageTop": 0,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 1280,
+      "height": 720,
+      "requested": 0,
+      "progress": "0.000",
+      "photo": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "stageTop": 0,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 1280,
+      "height": 720,
+      "requested": 0.5,
+      "progress": "0.500",
+      "photo": {
+        "x": 371.1875,
+        "y": 21.59375,
+        "width": 869.140625,
+        "height": 656.40625
+      },
+      "stageTop": 0,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 1280,
+      "height": 720,
+      "requested": 1,
+      "progress": "1.000",
+      "photo": {
+        "x": 742.390625,
+        "y": 43.1875,
+        "width": 458.25,
+        "height": 592.8125
+      },
+      "stageTop": 0,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 1280,
+      "height": 720,
+      "requested": 0.5,
+      "progress": "0.500",
+      "photo": {
+        "x": 371.1875,
+        "y": 21.59375,
+        "width": 869.140625,
+        "height": 656.40625
+      },
+      "stageTop": 0,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 1280,
+      "height": 720,
+      "requested": 0,
+      "progress": "0.000",
+      "photo": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "stageTop": 0,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 1024,
+      "height": 600,
+      "requested": 0,
+      "progress": "0.000",
+      "photo": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 439.9375
+      },
+      "stageTop": 0,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 1024,
+      "height": 600,
+      "requested": 0.5,
+      "progress": "0.500",
+      "photo": {
+        "x": 31.734375,
+        "y": -198,
+        "width": 960.53125,
+        "height": 329.9375
+      },
+      "stageTop": -210,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 1024,
+      "height": 600,
+      "requested": 1,
+      "progress": "1.000",
+      "photo": {
+        "x": 63.484375,
+        "y": -396,
+        "width": 897.03125,
+        "height": 219.9375
+      },
+      "stageTop": -420,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 1024,
+      "height": 600,
+      "requested": 0.5,
+      "progress": "0.500",
+      "photo": {
+        "x": 31.734375,
+        "y": -198,
+        "width": 960.53125,
+        "height": 329.9375
+      },
+      "stageTop": -210,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 1024,
+      "height": 600,
+      "requested": 0,
+      "progress": "0.000",
+      "photo": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 439.9375
+      },
+      "stageTop": 0,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "requested": 0,
+      "progress": "0.000",
+      "photo": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 440.203125
+      },
+      "stageTop": 0,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "requested": 0.5,
+      "progress": "0.499",
+      "photo": {
+        "x": 12.0625,
+        "y": -283.03125,
+        "width": 365.875,
+        "height": 330.359375
+      },
+      "stageTop": -295,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "requested": 1,
+      "progress": "1.000",
+      "photo": {
+        "x": 24.171875,
+        "y": -567,
+        "width": 341.65625,
+        "height": 220.203125
+      },
+      "stageTop": -591,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "requested": 0.5,
+      "progress": "0.499",
+      "photo": {
+        "x": 12.0625,
+        "y": -283.03125,
+        "width": 365.875,
+        "height": 330.359375
+      },
+      "stageTop": -295,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "requested": 0,
+      "progress": "0.000",
+      "photo": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 440.203125
+      },
+      "stageTop": 0,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "requested": 0,
+      "progress": "0.000",
+      "photo": {
+        "x": 0,
+        "y": 0,
+        "width": 360,
+        "height": 439.640625
+      },
+      "stageTop": 0,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "requested": 0.5,
+      "progress": "0.500",
+      "photo": {
+        "x": 12,
+        "y": -212,
+        "width": 336,
+        "height": 329.640625
+      },
+      "stageTop": -224,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "requested": 1,
+      "progress": "1.000",
+      "photo": {
+        "x": 24,
+        "y": -424,
+        "width": 312,
+        "height": 219.640625
+      },
+      "stageTop": -448,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "requested": 0.5,
+      "progress": "0.500",
+      "photo": {
+        "x": 12,
+        "y": -212,
+        "width": 336,
+        "height": 329.640625
+      },
+      "stageTop": -224,
+      "overflow": false,
+      "headings": 1
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "requested": 0,
+      "progress": "0.000",
+      "photo": {
+        "x": 0,
+        "y": 0,
+        "width": 360,
+        "height": 439.640625
+      },
+      "stageTop": 0,
+      "overflow": false,
+      "headings": 1
+    }
+  ],
+  "reduced": {
+    "progress": "1.000",
+    "position": "relative",
+    "animations": 0
+  },
+  "direct": 29.640625,
+  "errors": []
+}

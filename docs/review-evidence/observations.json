@@ -1,0 +1,3800 @@
+{
+  "reviewedAt": "2026-10-22T03:24:40.694Z",
+  "browser": "Chrome/156.0.8078.47",
+  "mode": "Headless Chrome on macOS; phone viewport emulation, not hardware testing",
+  "pages": [
+    {
+      "name": "home",
+      "device": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000,
+        "mobile": false
+      },
+      "data": {
+        "url": "https://barigalawfirm.com/",
+        "title": "barigalawfirm.com",
+        "language": "en-US",
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "document": {
+          "width": 1440,
+          "height": 5217
+        },
+        "headings": [
+          {
+            "tag": "H1",
+            "text": "Integrity, Strategy & Justice",
+            "visible": true,
+            "box": {
+              "x": 80,
+              "y": 264,
+              "width": 630,
+              "height": 273
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "70px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Keahlian Mendalam untuk Tantangan Perusahaan Anda",
+            "visible": true,
+            "box": {
+              "x": 90,
+              "y": 1065,
+              "width": 620,
+              "height": 197
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "50.52px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Mitra Strategis Pertumbuhan Bisnis Anda",
+            "visible": true,
+            "box": {
+              "x": 80,
+              "y": 2174,
+              "width": 600,
+              "height": 197
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "50.52px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Mari Diskusikan Kebutuhan Strategis Anda",
+            "visible": true,
+            "box": {
+              "x": 307,
+              "y": 2913,
+              "width": 826,
+              "height": 131
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "50.52px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H3",
+            "text": "Langkah 1: Jadwalkan Konsultasi",
+            "visible": true,
+            "box": {
+              "x": 170,
+              "y": 3316,
+              "width": 313,
+              "height": 55
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "21.33px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H3",
+            "text": "Langkah 2: Analisis Kebutuhan",
+            "visible": true,
+            "box": {
+              "x": 563,
+              "y": 3316,
+              "width": 313,
+              "height": 55
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "21.33px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H3",
+            "text": "Langkah 3: Rekomendasi Strategis",
+            "visible": true,
+            "box": {
+              "x": 957,
+              "y": 3311,
+              "width": 313,
+              "height": 55
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "21.33px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Jadwalkan Sesi Strategis Anda",
+            "visible": true,
+            "box": {
+              "x": 190,
+              "y": 3804,
+              "width": 1120,
+              "height": 66
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "50.52px",
+            "color": "rgb(0, 0, 0)"
+          }
+        ],
+        "links": [
+          {
+            "text": "",
+            "href": "https://barigalawfirm.com",
+            "label": null,
+            "box": {
+              "x": 70,
+              "y": 20,
+              "width": 173,
+              "height": 106
+            }
+          },
+          {
+            "text": "Home",
+            "href": "https://barigalawfirm.com/",
+            "label": null,
+            "box": {
+              "x": 439,
+              "y": 42,
+              "width": 78,
+              "height": 60
+            }
+          },
+          {
+            "text": "About Us",
+            "href": "https://barigalawfirm.com/about-us/",
+            "label": null,
+            "box": {
+              "x": 517,
+              "y": 42,
+              "width": 101,
+              "height": 60
+            }
+          },
+          {
+            "text": "Practice Areas",
+            "href": "https://barigalawfirm.com/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 618,
+              "y": 42,
+              "width": 141,
+              "height": 60
+            }
+          },
+          {
+            "text": "Layanan Strategis",
+            "href": "https://barigalawfirm.com/lain-lain/",
+            "label": null,
+            "box": {
+              "x": 759,
+              "y": 42,
+              "width": 170,
+              "height": 60
+            }
+          },
+          {
+            "text": "Whatsapp",
+            "href": "http://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 1173,
+              "y": 53,
+              "width": 50,
+              "height": 50
+            }
+          },
+          {
+            "text": "",
+            "href": "https://scholar.google.co.id/citations?user=KBu-M5QAAAAJ&hl=en",
+            "label": null,
+            "box": {
+              "x": 1228,
+              "y": 53,
+              "width": 50,
+              "height": 50
+            }
+          },
+          {
+            "text": "",
+            "href": "https://orcid.org/0009-0008-0952-232X",
+            "label": null,
+            "box": {
+              "x": 1283,
+              "y": 53,
+              "width": 50,
+              "height": 50
+            }
+          },
+          {
+            "text": "Solusi Hukum Anda",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 80,
+              "y": 750,
+              "width": 204,
+              "height": 58
+            }
+          },
+          {
+            "text": "Lebih Lanjut",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 121,
+              "y": 1840,
+              "width": 127,
+              "height": 34
+            }
+          },
+          {
+            "text": "Lebih Lanjut",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 441,
+              "y": 1840,
+              "width": 127,
+              "height": 34
+            }
+          },
+          {
+            "text": "Lebih Lanjut",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 761,
+              "y": 1832,
+              "width": 127,
+              "height": 34
+            }
+          },
+          {
+            "text": "Lebih Lanjut",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 1081,
+              "y": 1840,
+              "width": 127,
+              "height": 34
+            }
+          },
+          {
+            "text": "Lebih Lanjut",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 647,
+              "y": 1936,
+              "width": 146,
+              "height": 58
+            }
+          },
+          {
+            "text": "Pelajari Pendekatan Kami",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 80,
+              "y": 2570,
+              "width": 249,
+              "height": 58
+            }
+          },
+          {
+            "text": "Whatsapp",
+            "href": "https://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 65,
+              "y": 4973,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "",
+            "href": "https://scholar.google.co.id/citations?user=KBu-M5QAAAAJ&hl=en",
+            "label": null,
+            "box": {
+              "x": 102,
+              "y": 4973,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "",
+            "href": "https://orcid.org/0009-0008-0952-232X",
+            "label": null,
+            "box": {
+              "x": 139,
+              "y": 4973,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "Home",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 597,
+              "y": 4698,
+              "width": 246,
+              "height": 36
+            }
+          },
+          {
+            "text": "About us",
+            "href": "/about-us/",
+            "label": null,
+            "box": {
+              "x": 597,
+              "y": 4744,
+              "width": 246,
+              "height": 36
+            }
+          },
+          {
+            "text": "Practice Areas",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 597,
+              "y": 4790,
+              "width": 246,
+              "height": 36
+            }
+          },
+          {
+            "text": "Lain-lain",
+            "href": "/lain-lain/",
+            "label": null,
+            "box": {
+              "x": 597,
+              "y": 4836,
+              "width": 246,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Perdata & Bisnis",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 4698,
+              "width": 242,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Kepailitan & PKPU",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 4744,
+              "width": 242,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Arbitrase & Penyelesaian Sengketa",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 4790,
+              "width": 242,
+              "height": 72
+            }
+          },
+          {
+            "text": "Hukum Perbankan & Keuangan",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 4872,
+              "width": 242,
+              "height": 72
+            }
+          },
+          {
+            "text": "Lain-lain",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 4954,
+              "width": 242,
+              "height": 36
+            }
+          },
+          {
+            "text": "Jl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 1125,
+              "y": 4698,
+              "width": 219,
+              "height": 180
+            }
+          },
+          {
+            "text": "+62 812-9579-8826",
+            "href": "http://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 1125,
+              "y": 4888,
+              "width": 219,
+              "height": 36
+            }
+          },
+          {
+            "text": "mesa.naiborhu @barigalawfirm.com",
+            "href": "mailto:mesa.naiborhu@barigalawfirm.com",
+            "label": null,
+            "box": {
+              "x": 1125,
+              "y": 4934,
+              "width": 219,
+              "height": 72
+            }
+          }
+        ],
+        "images": [
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/bariga-law-firm-logo-1.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 526,
+            "visible": true,
+            "box": {
+              "x": 70,
+              "y": 20,
+              "width": 173,
+              "height": 106
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/background-removed.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 395,
+            "visible": true,
+            "box": {
+              "x": 720,
+              "y": 233,
+              "width": 650,
+              "height": 653
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/Managing_Partner-removebg-preview.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 431,
+            "visible": true,
+            "box": {
+              "x": 850,
+              "y": 2261,
+              "width": 390,
+              "height": 412
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/bariga-law-firm-logo-1.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 526,
+            "visible": true,
+            "box": {
+              "x": 65,
+              "y": 4687,
+              "width": 136,
+              "height": 83
+            }
+          }
+        ],
+        "forms": [
+          {
+            "name": "Get Quote Now",
+            "action": null,
+            "fields": [
+              {
+                "name": "form_fields[name]",
+                "type": "text",
+                "required": false,
+                "label": "Nama",
+                "placeholder": "Nama Anda"
+              },
+              {
+                "name": "form_fields[email]",
+                "type": "email",
+                "required": true,
+                "label": "Email",
+                "placeholder": "Email Anda"
+              },
+              {
+                "name": "form_fields[field_75cd629]",
+                "type": "text",
+                "required": false,
+                "label": "Nomor Anda",
+                "placeholder": "Nomor Anda"
+              },
+              {
+                "name": "form_fields[message]",
+                "type": "textarea",
+                "required": false,
+                "label": "Pesan",
+                "placeholder": "Pesan Anda"
+              }
+            ]
+          }
+        ],
+        "text": "Home\nAbout Us\nPractice Areas\nLayanan Strategis\nWhatsapp\n \n \nIntegrity, Strategy & Justice\n\nBARIGA LAW FIRM adalah firma hukum modern yang menyediakan solusi hukum strategis bagi korporasi dan individu. Kami menggabungkan keahlian hukum yang mendalam dengan pemahaman bisnis yang tajam\n\nSolusi Hukum Anda\nKeahlian Mendalam untuk Tantangan Perusahaan Anda\n\nDi BARIGA LAW FIRM, kami memahami bahwa setiap tantangan bisnis memiliki dimensi hukum yang unik. Kami tidak hanya menawarkan nasihat hukum, tetapi juga merancang strategi penyelesaian yang efisien dan terukur\n\nHukum Perdata & Bisnis\n\nMemberikan pendampingan hukum komprehensif mulai dari pendirian perusahaan, perancangan kontrak, hingga kepatuhan regulasi korporat.\n\nLebih Lanjut\nHukum Kepailitan & PKPU\n\nMembantu perusahaan menavigasi proses restrukturisasi utang  yang kompleks dan melindungi aset selama masa krisis finansial.\n\nLebih Lanjut\nArbitrase & Penyelesaian Sengketa\n\nMenyediakan representasi strategis arbitrase dan mediasi untuk menyelesaikan sengketa bisnis di luar pengadilan.\n\nLebih Lanjut\nHukum Perbankan & Keuangan\n\nNasihat ahli mengenai regulasi finansial, perjanjian kredit, dan litigasi perbankan untuk melindungi transaksi keuangan Anda.\n\nLebih Lanjut\nLebih Lanjut\nMitra Strategis Pertumbuhan Bisnis Anda\n\nKami percaya masalah hukum dalam bisnis jarang berdiri sendiri. Oleh karena itu, BARIGA LAW FIRM hadir dengan pendekatan terpadu. Kami tidak hanya memastikan kepatuhan hukum Anda, tetapi juga berfungsi sebagai Legal & Business Strategist.\n\nPelajari Pendekatan Kami\nMesa Indra Naiborhu, S.P., S.H., M.H., CPM.\nManaging Partner\nMari Diskusikan Kebutuhan Strategis Anda\n\nSetiap tantangan hukum dan bisnis yang kompleks memerlukan diskusi awal yang mendalam. Hubungi kami untuk menjadwalkan sesi konsultasi rahasia.\n\nLangkah 1: Jadwalkan Konsultasi\n\nHubungi kami melalui formulir kontak, email, atau telepon untuk mengatur jadwal diskusi awal yang fleksibel dan rahasia sesuai kenyamanan Anda.\n\nLangkah 2: Analisis Kebutuhan\n\nDalam sesi konsultasi, tim kami akan mendengarkan dan menganalisis situasi Anda secara komprehensif untuk memahami akar permasalahan dan tujuan akhir Anda.\n\nLangkah 3: Rekomendasi Strategis\n\nAnda akan menerima gambaran umum mengenai opsi hukum dan rekomendasi strategi bisnis sebagai langkah awal untuk penyelesaian masalah Anda.\n\nJadwalkan Sesi Strategis Anda\nNama\nEmail\nNomor Anda\nPesan\nKirim Pesan\n\nInformasi di situs ini bersifat umum dan tidak merupakan nasihat hukum yang mengikat. Konsultasikan langsung dengan advokat kami untuk pendapat hukum spesifik.\n\nWhatsapp\n \n \nMenu\nHome\nAbout us\nPractice Areas\nLain-lain\nServices\nHukum Perdata & Bisnis\nHukum Kepailitan & PKPU\nHukum Arbitrase & Penyelesaian Sengketa\nHukum Perbankan & Keuangan\nLain-lain\nWhere We Are\nJl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)\n+62 812-9579-8826\nmesa.naiborhu\n@barigalawfirm.com\n©2026 – Bariga Law Firm",
+        "menu": [
+          {
+            "role": "button",
+            "label": "Menu Toggle",
+            "expanded": "false",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          }
+        ],
+        "overflowing": []
+      },
+      "network": [
+        {
+          "type": "http",
+          "status": 404,
+          "url": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/mask-shapes/custom.svg"
+        }
+      ],
+      "errors": [],
+      "screenshot": "home-desktop.png",
+      "menuAfter": null
+    },
+    {
+      "name": "about",
+      "device": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000,
+        "mobile": false
+      },
+      "data": {
+        "url": "https://barigalawfirm.com/about-us/",
+        "title": "About Us – barigalawfirm.com",
+        "language": "en-US",
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "document": {
+          "width": 1440,
+          "height": 3065
+        },
+        "headings": [
+          {
+            "tag": "H1",
+            "text": "TENTANG KAMI",
+            "visible": true,
+            "box": {
+              "x": 80,
+              "y": 337,
+              "width": 630,
+              "height": 91
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "70px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Pesan dari Managing Partner",
+            "visible": true,
+            "box": {
+              "x": 750,
+              "y": 755,
+              "width": 590,
+              "height": 131
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "50.52px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "We serve the best service",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "50.52px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "01.",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "50.52px",
+            "color": "rgb(12, 202, 168)"
+          },
+          {
+            "tag": "H2",
+            "text": "02.",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "50.52px",
+            "color": "rgb(8, 92, 76)"
+          },
+          {
+            "tag": "H2",
+            "text": "03.",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "50.52px",
+            "color": "rgb(8, 92, 76)"
+          },
+          {
+            "tag": "H3",
+            "text": "Melampaui Nasihat Hukum: Mitra Strategis Bisnis Anda",
+            "visible": true,
+            "box": {
+              "x": 105,
+              "y": 1540,
+              "width": 218,
+              "height": 345
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "37.9px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H4",
+            "text": "Irisan Kompetensi: Hukum, Keuangan & Manajemen",
+            "visible": true,
+            "box": {
+              "x": 760,
+              "y": 1687,
+              "width": 258,
+              "height": 185
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "28.43px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Specialist Family Lawyers And Divorce Solicitors",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "50.52px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Feel free to ask any questions to us",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "50.52px",
+            "color": "rgb(0, 0, 0)"
+          }
+        ],
+        "links": [
+          {
+            "text": "",
+            "href": "https://barigalawfirm.com",
+            "label": null,
+            "box": {
+              "x": 70,
+              "y": 20,
+              "width": 173,
+              "height": 106
+            }
+          },
+          {
+            "text": "Home",
+            "href": "https://barigalawfirm.com/",
+            "label": null,
+            "box": {
+              "x": 439,
+              "y": 42,
+              "width": 78,
+              "height": 60
+            }
+          },
+          {
+            "text": "About Us",
+            "href": "https://barigalawfirm.com/about-us/",
+            "label": null,
+            "box": {
+              "x": 517,
+              "y": 42,
+              "width": 101,
+              "height": 60
+            }
+          },
+          {
+            "text": "Practice Areas",
+            "href": "https://barigalawfirm.com/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 618,
+              "y": 42,
+              "width": 141,
+              "height": 60
+            }
+          },
+          {
+            "text": "Layanan Strategis",
+            "href": "https://barigalawfirm.com/lain-lain/",
+            "label": null,
+            "box": {
+              "x": 759,
+              "y": 42,
+              "width": 170,
+              "height": 60
+            }
+          },
+          {
+            "text": "Whatsapp",
+            "href": "http://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 1173,
+              "y": 53,
+              "width": 50,
+              "height": 50
+            }
+          },
+          {
+            "text": "",
+            "href": "https://scholar.google.co.id/citations?user=KBu-M5QAAAAJ&hl=en",
+            "label": null,
+            "box": {
+              "x": 1228,
+              "y": 53,
+              "width": 50,
+              "height": 50
+            }
+          },
+          {
+            "text": "",
+            "href": "https://orcid.org/0009-0008-0952-232X",
+            "label": null,
+            "box": {
+              "x": 1283,
+              "y": 53,
+              "width": 50,
+              "height": 50
+            }
+          },
+          {
+            "text": "Contact Us",
+            "href": "https://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 105,
+              "y": 2227,
+              "width": 162,
+              "height": 58
+            }
+          },
+          {
+            "text": "Whatsapp",
+            "href": "https://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 65,
+              "y": 2821,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "",
+            "href": "https://scholar.google.co.id/citations?user=KBu-M5QAAAAJ&hl=en",
+            "label": null,
+            "box": {
+              "x": 102,
+              "y": 2821,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "",
+            "href": "https://orcid.org/0009-0008-0952-232X",
+            "label": null,
+            "box": {
+              "x": 139,
+              "y": 2821,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "Home",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 597,
+              "y": 2546,
+              "width": 246,
+              "height": 36
+            }
+          },
+          {
+            "text": "About us",
+            "href": "/about-us/",
+            "label": null,
+            "box": {
+              "x": 597,
+              "y": 2592,
+              "width": 246,
+              "height": 36
+            }
+          },
+          {
+            "text": "Practice Areas",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 597,
+              "y": 2638,
+              "width": 246,
+              "height": 36
+            }
+          },
+          {
+            "text": "Lain-lain",
+            "href": "/lain-lain/",
+            "label": null,
+            "box": {
+              "x": 597,
+              "y": 2684,
+              "width": 246,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Perdata & Bisnis",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 2546,
+              "width": 242,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Kepailitan & PKPU",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 2592,
+              "width": 242,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Arbitrase & Penyelesaian Sengketa",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 2638,
+              "width": 242,
+              "height": 72
+            }
+          },
+          {
+            "text": "Hukum Perbankan & Keuangan",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 2720,
+              "width": 242,
+              "height": 72
+            }
+          },
+          {
+            "text": "Lain-lain",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 2802,
+              "width": 242,
+              "height": 36
+            }
+          },
+          {
+            "text": "Jl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 1125,
+              "y": 2546,
+              "width": 219,
+              "height": 180
+            }
+          },
+          {
+            "text": "+62 812-9579-8826",
+            "href": "http://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 1125,
+              "y": 2736,
+              "width": 219,
+              "height": 36
+            }
+          },
+          {
+            "text": "mesa.naiborhu @barigalawfirm.com",
+            "href": "mailto:mesa.naiborhu@barigalawfirm.com",
+            "label": null,
+            "box": {
+              "x": 1125,
+              "y": 2782,
+              "width": 219,
+              "height": 72
+            }
+          }
+        ],
+        "images": [
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/bariga-law-firm-logo-1.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 526,
+            "visible": true,
+            "box": {
+              "x": 70,
+              "y": 20,
+              "width": 173,
+              "height": 106
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/images/placeholder.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 1200,
+            "visible": true,
+            "box": {
+              "x": 353,
+              "y": 2218,
+              "width": 30,
+              "height": 20
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/images/placeholder.png",
+            "alt": "",
+            "loaded": false,
+            "naturalWidth": 1200,
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/images/placeholder.png",
+            "alt": "",
+            "loaded": false,
+            "naturalWidth": 1200,
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/images/placeholder.png",
+            "alt": "",
+            "loaded": false,
+            "naturalWidth": 1200,
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/images/placeholder.png",
+            "alt": "",
+            "loaded": false,
+            "naturalWidth": 1200,
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/images/placeholder.png",
+            "alt": "",
+            "loaded": false,
+            "naturalWidth": 1200,
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/bariga-law-firm-logo-1.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 526,
+            "visible": true,
+            "box": {
+              "x": 65,
+              "y": 2535,
+              "width": 136,
+              "height": 83
+            }
+          }
+        ],
+        "forms": [
+          {
+            "name": "Get Quote Now",
+            "action": null,
+            "fields": [
+              {
+                "name": "form_fields[name]",
+                "type": "text",
+                "required": false,
+                "label": "\n\t\t\t\t\t\t\t\tYour Name\t\t\t\t\t\t\t",
+                "placeholder": "Your Name"
+              },
+              {
+                "name": "form_fields[email]",
+                "type": "email",
+                "required": true,
+                "label": "\n\t\t\t\t\t\t\t\tYour Email\t\t\t\t\t\t\t",
+                "placeholder": "Your Email"
+              },
+              {
+                "name": "form_fields[message]",
+                "type": "textarea",
+                "required": false,
+                "label": "\n\t\t\t\t\t\t\t\tYour Message\t\t\t\t\t\t\t",
+                "placeholder": "Your Message"
+              }
+            ]
+          }
+        ],
+        "text": "Home\nAbout Us\nPractice Areas\nLayanan Strategis\nWhatsapp\n \n \nTENTANG KAMI\n\nBARIGA LAW FIRM adalah firma hukum strategis yang didirikan di atas tiga pilar: Integritas, Strategi, dan Keadilan. Misi kami adalah memberikan solusi hukum terintegrasi yang tidak hanya menyelesaikan masalah, tetapi juga menciptakan nilai tambah dan kepastian bagi pertumbuhan bisnis klien kami.\n\nPesan dari Managing Partner\n\n“Kami percaya bahwa masalah hukum dalam bisnis jarang berdiri sendiri. Tantangan tersebut seringkali berakar pada isu keuangan, operasional, atau strategis.\n\nDi BARIGA LAW FIRM,  Setiap kasus dan transaksi kami analisis melalui tiga lensa terintegrasi: Kepatuhan Hukum, Kelayakan Finansial, dan Strategi Manajemen. Pendekatan holistik inilah yang memungkinkan kami memberikan rekomendasi yang tidak hanya aman secara yuridis, tetapi juga cerdas secara komersial.”\n\n— Mesa Indra Naiborhu, S.P., S.H., M.H., CPM.\n\nManaging Partner\n\nMelampaui Nasihat Hukum: Mitra Strategis Bisnis Anda\n\nKami memahami bahwa kebutuhan bisnis modern melampaui litigasi. BARIGA LAW FIRM juga menyediakan layanan konsultasi bisnis, restrukturisasi keuangan, dan training.\n\nContact Us\nIrisan Kompetensi: Hukum, Keuangan & Manajemen\n\nPosisi unik kami sebagai Legal & Business Strategist memungkinkan kami menjembatani kebutuhan kepatuhan hukum dengan solusi keuangan dan manajemen yang praktis\n\nInformasi di situs ini bersifat umum dan tidak merupakan nasihat hukum yang mengikat. Konsultasikan langsung dengan advokat kami untuk pendapat hukum spesifik.\n\nWhatsapp\n \n \nMenu\nHome\nAbout us\nPractice Areas\nLain-lain\nServices\nHukum Perdata & Bisnis\nHukum Kepailitan & PKPU\nHukum Arbitrase & Penyelesaian Sengketa\nHukum Perbankan & Keuangan\nLain-lain\nWhere We Are\nJl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)\n+62 812-9579-8826\nmesa.naiborhu\n@barigalawfirm.com\n©2026 – Bariga Law Firm",
+        "menu": [
+          {
+            "role": "button",
+            "label": "Menu Toggle",
+            "expanded": "false",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          }
+        ],
+        "overflowing": []
+      },
+      "network": [
+        {
+          "type": "http",
+          "status": 404,
+          "url": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/mask-shapes/custom.svg"
+        }
+      ],
+      "errors": [],
+      "screenshot": "about-desktop.png",
+      "menuAfter": null
+    },
+    {
+      "name": "practice",
+      "device": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000,
+        "mobile": false
+      },
+      "data": {
+        "url": "https://barigalawfirm.com/practice-areas/",
+        "title": "Practice Areas – barigalawfirm.com",
+        "language": "en-US",
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "document": {
+          "width": 1440,
+          "height": 3349
+        },
+        "headings": [
+          {
+            "tag": "H1",
+            "text": "Practice Areas",
+            "visible": true,
+            "box": {
+              "x": 80,
+              "y": 337,
+              "width": 630,
+              "height": 91
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "70px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Efficient Solutions That Your Company Needs",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "50.52px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H4",
+            "text": "Melampaui Nasihat Hukum: Mitra Strategis Bisnis Anda",
+            "visible": true,
+            "box": {
+              "x": 105,
+              "y": 2041,
+              "width": 285,
+              "height": 148
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "28.43px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H4",
+            "text": "Irisan Kompetensi: Hukum, Keuangan & Manajemen",
+            "visible": true,
+            "box": {
+              "x": 760,
+              "y": 2054,
+              "width": 258,
+              "height": 185
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "28.43px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Don't Be An Unsolved Case Claim Your Life",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "50.52px",
+            "color": "rgb(0, 0, 0)"
+          }
+        ],
+        "links": [
+          {
+            "text": "",
+            "href": "https://barigalawfirm.com",
+            "label": null,
+            "box": {
+              "x": 70,
+              "y": 20,
+              "width": 173,
+              "height": 106
+            }
+          },
+          {
+            "text": "Home",
+            "href": "https://barigalawfirm.com/",
+            "label": null,
+            "box": {
+              "x": 439,
+              "y": 42,
+              "width": 78,
+              "height": 60
+            }
+          },
+          {
+            "text": "About Us",
+            "href": "https://barigalawfirm.com/about-us/",
+            "label": null,
+            "box": {
+              "x": 517,
+              "y": 42,
+              "width": 101,
+              "height": 60
+            }
+          },
+          {
+            "text": "Practice Areas",
+            "href": "https://barigalawfirm.com/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 618,
+              "y": 42,
+              "width": 141,
+              "height": 60
+            }
+          },
+          {
+            "text": "Layanan Strategis",
+            "href": "https://barigalawfirm.com/lain-lain/",
+            "label": null,
+            "box": {
+              "x": 759,
+              "y": 42,
+              "width": 170,
+              "height": 60
+            }
+          },
+          {
+            "text": "Whatsapp",
+            "href": "http://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 1173,
+              "y": 53,
+              "width": 50,
+              "height": 50
+            }
+          },
+          {
+            "text": "",
+            "href": "https://scholar.google.co.id/citations?user=KBu-M5QAAAAJ&hl=en",
+            "label": null,
+            "box": {
+              "x": 1228,
+              "y": 53,
+              "width": 50,
+              "height": 50
+            }
+          },
+          {
+            "text": "",
+            "href": "https://orcid.org/0009-0008-0952-232X",
+            "label": null,
+            "box": {
+              "x": 1283,
+              "y": 53,
+              "width": 50,
+              "height": 50
+            }
+          },
+          {
+            "text": "CONTACT ME",
+            "href": "https://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 105,
+              "y": 2459,
+              "width": 188,
+              "height": 58
+            }
+          },
+          {
+            "text": "Whatsapp",
+            "href": "https://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 65,
+              "y": 3105,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "",
+            "href": "https://scholar.google.co.id/citations?user=KBu-M5QAAAAJ&hl=en",
+            "label": null,
+            "box": {
+              "x": 102,
+              "y": 3105,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "",
+            "href": "https://orcid.org/0009-0008-0952-232X",
+            "label": null,
+            "box": {
+              "x": 139,
+              "y": 3105,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "Home",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 597,
+              "y": 2830,
+              "width": 246,
+              "height": 36
+            }
+          },
+          {
+            "text": "About us",
+            "href": "/about-us/",
+            "label": null,
+            "box": {
+              "x": 597,
+              "y": 2876,
+              "width": 246,
+              "height": 36
+            }
+          },
+          {
+            "text": "Practice Areas",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 597,
+              "y": 2922,
+              "width": 246,
+              "height": 36
+            }
+          },
+          {
+            "text": "Lain-lain",
+            "href": "/lain-lain/",
+            "label": null,
+            "box": {
+              "x": 597,
+              "y": 2968,
+              "width": 246,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Perdata & Bisnis",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 2830,
+              "width": 242,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Kepailitan & PKPU",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 2876,
+              "width": 242,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Arbitrase & Penyelesaian Sengketa",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 2922,
+              "width": 242,
+              "height": 72
+            }
+          },
+          {
+            "text": "Hukum Perbankan & Keuangan",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 3004,
+              "width": 242,
+              "height": 72
+            }
+          },
+          {
+            "text": "Lain-lain",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 3086,
+              "width": 242,
+              "height": 36
+            }
+          },
+          {
+            "text": "Jl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 1125,
+              "y": 2830,
+              "width": 219,
+              "height": 180
+            }
+          },
+          {
+            "text": "+62 812-9579-8826",
+            "href": "http://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 1125,
+              "y": 3020,
+              "width": 219,
+              "height": 36
+            }
+          },
+          {
+            "text": "mesa.naiborhu @barigalawfirm.com",
+            "href": "mailto:mesa.naiborhu@barigalawfirm.com",
+            "label": null,
+            "box": {
+              "x": 1125,
+              "y": 3066,
+              "width": 219,
+              "height": 72
+            }
+          }
+        ],
+        "images": [
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/bariga-law-firm-logo-1.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 526,
+            "visible": true,
+            "box": {
+              "x": 70,
+              "y": 20,
+              "width": 173,
+              "height": 106
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/images/placeholder.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 1200,
+            "visible": true,
+            "box": {
+              "x": 420,
+              "y": 2503,
+              "width": 30,
+              "height": 20
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/images/placeholder.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 1200,
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/bariga-law-firm-logo-1.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 526,
+            "visible": true,
+            "box": {
+              "x": 65,
+              "y": 2819,
+              "width": 136,
+              "height": 83
+            }
+          }
+        ],
+        "forms": [],
+        "text": "Home\nAbout Us\nPractice Areas\nLayanan Strategis\nWhatsapp\n \n \nPractice Areas\n\nKeahlian kami mencakup berbagai disiplin hukum yang vital bagi korporasi modern maupun kebutuhan individu. Dari restrukturisasi keuangan dan transaksi bisnis yang kompleks, arbitrase komersial, hingga penyelesaian sengketa pidana dan perdata.\n\nHukum Perdata & Bisnis\n\nPendampingan penuh untuk pendirian perusahaan, perancangan kontrak, aksi korporasi, dan kepatuhan regulasi untuk mengamankan setiap aspek operasional bisnis Anda.\n\nHukum Kepailitan & PKPU\n\nMemberikan solusi strategis bagi kreditur atau debitur dalam menavigasi proses restrukturisasi utang yang kompleks, kepailitan, dan Penundaan Kewajiban Pembayaran Utang (PKPU).\n\nHukum Pidana (Umum & Bisnis)\n\nPendampingan ahli di setiap tahap proses peradilan pidana, baik untuk kasus pidana umum maupun pidana khusus di bidang bisnis (kejahatan korporasi dan kerah putih)\n\nArbitrase & Penyelesaian Sengketa\n\nRepresentasi klien dalam forum arbitrase nasional (BANI) maupun internasional, serta mediasi, menawarkan penyelesaian sengketa yang efisien di luar litigasi pengadilan.\n\nHukum Keluarga & Waris\n\nMenangani permasalahan hukum keluarga yang sensitif, termasuk sengketa waris, hibah, wasiat, dan perjanjian pra-nikah dengan kerahasiaan dan profesionalisme penuh.\n\nHukum Perbankan & Keuangan\n\nNasihat komprehensif mengenai regulasi perbankan, perjanjian kredit, pembiayaan proyek, dan penyelesaian sengketa perbankan untuk melindungi transaksi finansial Anda.\n\nHukum Teknologi & Perlindungan Data\n\nMemastikan bisnis Anda patuh pada regulasi perlindungan data (UU PDP), serta menangani aspek hukum dalam kontrak IT, transaksi digital, dan keamanan siber.\n\nMelampaui Nasihat Hukum: Mitra Strategis Bisnis Anda\n\nKami memahami bahwa kebutuhan bisnis modern melampaui litigasi. BARIGA LAW FIRM juga menyediakan layanan konsultasi bisnis, restrukturisasi keuangan, dan training.\n\nCONTACT ME\nIrisan Kompetensi: Hukum, Keuangan & Manajemen\n\nPosisi unik kami sebagai Legal & Business Strategist memungkinkan kami menjembatani kebutuhan kepatuhan hukum dengan solusi keuangan dan manajemen yang praktis\n\nInformasi di situs ini bersifat umum dan tidak merupakan nasihat hukum yang mengikat. Konsultasikan langsung dengan advokat kami untuk pendapat hukum spesifik.\n\nWhatsapp\n \n \nMenu\nHome\nAbout us\nPractice Areas\nLain-lain\nServices\nHukum Perdata & Bisnis\nHukum Kepailitan & PKPU\nHukum Arbitrase & Penyelesaian Sengketa\nHukum Perbankan & Keuangan\nLain-lain\nWhere We Are\nJl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)\n+62 812-9579-8826\nmesa.naiborhu\n@barigalawfirm.com\n©2026 – Bariga Law Firm",
+        "menu": [
+          {
+            "role": "button",
+            "label": "Menu Toggle",
+            "expanded": "false",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          }
+        ],
+        "overflowing": []
+      },
+      "network": [
+        {
+          "type": "http",
+          "status": 404,
+          "url": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/mask-shapes/custom.svg"
+        }
+      ],
+      "errors": [],
+      "screenshot": "practice-desktop.png",
+      "menuAfter": null
+    },
+    {
+      "name": "strategic",
+      "device": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000,
+        "mobile": false
+      },
+      "data": {
+        "url": "https://barigalawfirm.com/lain-lain/",
+        "title": "Layanan Strategis – barigalawfirm.com",
+        "language": "en-US",
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "document": {
+          "width": 1440,
+          "height": 3046
+        },
+        "headings": [
+          {
+            "tag": "H2",
+            "text": "TRAINING AND CONSULTING",
+            "visible": true,
+            "box": {
+              "x": 790,
+              "y": 365,
+              "width": 570,
+              "height": 131
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "50.52px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "MULAI KONSULTASI ANDA",
+            "visible": true,
+            "box": {
+              "x": 190,
+              "y": 1662,
+              "width": 611,
+              "height": 131
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "50.52px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Info Kontak",
+            "visible": true,
+            "box": {
+              "x": 861,
+              "y": 1707,
+              "width": 509,
+              "height": 66
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "50.52px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H4",
+            "text": "ALAMAT KANTOR",
+            "visible": true,
+            "box": {
+              "x": 861,
+              "y": 1793,
+              "width": 509,
+              "height": 37
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "28.43px",
+            "color": "rgb(0, 0, 0)"
+          }
+        ],
+        "links": [
+          {
+            "text": "",
+            "href": "https://barigalawfirm.com",
+            "label": null,
+            "box": {
+              "x": 70,
+              "y": 20,
+              "width": 173,
+              "height": 106
+            }
+          },
+          {
+            "text": "Home",
+            "href": "https://barigalawfirm.com/",
+            "label": null,
+            "box": {
+              "x": 439,
+              "y": 42,
+              "width": 78,
+              "height": 60
+            }
+          },
+          {
+            "text": "About Us",
+            "href": "https://barigalawfirm.com/about-us/",
+            "label": null,
+            "box": {
+              "x": 517,
+              "y": 42,
+              "width": 101,
+              "height": 60
+            }
+          },
+          {
+            "text": "Practice Areas",
+            "href": "https://barigalawfirm.com/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 618,
+              "y": 42,
+              "width": 141,
+              "height": 60
+            }
+          },
+          {
+            "text": "Layanan Strategis",
+            "href": "https://barigalawfirm.com/lain-lain/",
+            "label": null,
+            "box": {
+              "x": 759,
+              "y": 42,
+              "width": 170,
+              "height": 60
+            }
+          },
+          {
+            "text": "Whatsapp",
+            "href": "http://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 1173,
+              "y": 53,
+              "width": 50,
+              "height": 50
+            }
+          },
+          {
+            "text": "",
+            "href": "https://scholar.google.co.id/citations?user=KBu-M5QAAAAJ&hl=en",
+            "label": null,
+            "box": {
+              "x": 1228,
+              "y": 53,
+              "width": 50,
+              "height": 50
+            }
+          },
+          {
+            "text": "",
+            "href": "https://orcid.org/0009-0008-0952-232X",
+            "label": null,
+            "box": {
+              "x": 1283,
+              "y": 53,
+              "width": 50,
+              "height": 50
+            }
+          },
+          {
+            "text": "Whatsapp",
+            "href": "https://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 65,
+              "y": 2802,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "",
+            "href": "https://scholar.google.co.id/citations?user=KBu-M5QAAAAJ&hl=en",
+            "label": null,
+            "box": {
+              "x": 102,
+              "y": 2802,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "",
+            "href": "https://orcid.org/0009-0008-0952-232X",
+            "label": null,
+            "box": {
+              "x": 139,
+              "y": 2802,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "Home",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 597,
+              "y": 2526,
+              "width": 246,
+              "height": 36
+            }
+          },
+          {
+            "text": "About us",
+            "href": "/about-us/",
+            "label": null,
+            "box": {
+              "x": 597,
+              "y": 2572,
+              "width": 246,
+              "height": 36
+            }
+          },
+          {
+            "text": "Practice Areas",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 597,
+              "y": 2618,
+              "width": 246,
+              "height": 36
+            }
+          },
+          {
+            "text": "Lain-lain",
+            "href": "/lain-lain/",
+            "label": null,
+            "box": {
+              "x": 597,
+              "y": 2664,
+              "width": 246,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Perdata & Bisnis",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 2526,
+              "width": 242,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Kepailitan & PKPU",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 2572,
+              "width": 242,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Arbitrase & Penyelesaian Sengketa",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 2618,
+              "width": 242,
+              "height": 72
+            }
+          },
+          {
+            "text": "Hukum Perbankan & Keuangan",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 2700,
+              "width": 242,
+              "height": 72
+            }
+          },
+          {
+            "text": "Lain-lain",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 863,
+              "y": 2782,
+              "width": 242,
+              "height": 36
+            }
+          },
+          {
+            "text": "Jl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 1125,
+              "y": 2526,
+              "width": 219,
+              "height": 180
+            }
+          },
+          {
+            "text": "+62 812-9579-8826",
+            "href": "http://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 1125,
+              "y": 2716,
+              "width": 219,
+              "height": 36
+            }
+          },
+          {
+            "text": "mesa.naiborhu @barigalawfirm.com",
+            "href": "mailto:mesa.naiborhu@barigalawfirm.com",
+            "label": null,
+            "box": {
+              "x": 1125,
+              "y": 2762,
+              "width": 219,
+              "height": 72
+            }
+          }
+        ],
+        "images": [
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/bariga-law-firm-logo-1.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 526,
+            "visible": true,
+            "box": {
+              "x": 70,
+              "y": 20,
+              "width": 173,
+              "height": 106
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/bariga-law-firm-logo-1.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 526,
+            "visible": true,
+            "box": {
+              "x": 65,
+              "y": 2516,
+              "width": 136,
+              "height": 83
+            }
+          }
+        ],
+        "forms": [
+          {
+            "name": "GET KONSULTATION",
+            "action": null,
+            "fields": [
+              {
+                "name": "form_fields[field_1cb65e1]",
+                "type": "text",
+                "required": true,
+                "label": "Nama Anda",
+                "placeholder": "Nama Anda"
+              },
+              {
+                "name": "form_fields[email]",
+                "type": "email",
+                "required": true,
+                "label": "Email Anda",
+                "placeholder": "Email Anda"
+              },
+              {
+                "name": "form_fields[field_fc73839]",
+                "type": "text",
+                "required": true,
+                "label": "Nomor Whatsapp",
+                "placeholder": "Whatsapp Anda"
+              },
+              {
+                "name": "form_fields[message]",
+                "type": "textarea",
+                "required": true,
+                "label": "Pesan Anda",
+                "placeholder": "Pesan Anda"
+              }
+            ]
+          }
+        ],
+        "text": "Home\nAbout Us\nPractice Areas\nLayanan Strategis\nWhatsapp\n \n \nTRAINING AND CONSULTING\n\nSelain layanan hukum, Bariga Law Firm juga mendukung perusahaan dalam meningkatkan tata kelola bisnis, restrukturisasi keuangan, dan pengembangan manajemen. Dengan pengalaman unik di bidang hukum, keuangan, dan manajemen, kami menghadirkan pendekatan terpadu untuk menjawab tantangan bisnis modern.\n\nBusiness Process Training\n\nMemberikan pelatihan terstruktur mengenai efisiensi alur kerja, penyusunan SOP, dan manajemen risiko operasional\n\nFinance & Restructuring\n\nLayanan konsultasi untuk restrukturisasi keuangan perusahaan, strategi keberlanjutan, dan manajemen krisis finansial.\n\nLaw & Compliance Training\n\nPelatihan kepatuhan hukum korporat, perancangan kontrak bisnis, perlindungan data (UU PDP), & corporate governance.\n\nMULAI KONSULTASI ANDA\nNama Anda\nEmail Anda\nNomor Whatsapp\nPesan Anda\nSend Message\nInfo Kontak\nALAMAT KANTOR\n\nJl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)\n\nEmail: mesa.naiborhu@barigalawfirm.com\nTelepon/WA: +62 812-9579-8826\nDIsclaimer\n\nInformasi di situs ini bersifat umum dan tidak merupakan nasihat hukum yang mengikat. Konsultasikan langsung dengan advokat kami untuk pendapat hukum spesifik.\n\nInformasi di situs ini bersifat umum dan tidak merupakan nasihat hukum yang mengikat. Konsultasikan langsung dengan advokat kami untuk pendapat hukum spesifik.\n\nWhatsapp\n \n \nMenu\nHome\nAbout us\nPractice Areas\nLain-lain\nServices\nHukum Perdata & Bisnis\nHukum Kepailitan & PKPU\nHukum Arbitrase & Penyelesaian Sengketa\nHukum Perbankan & Keuangan\nLain-lain\nWhere We Are\nJl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)\n+62 812-9579-8826\nmesa.naiborhu\n@barigalawfirm.com\n©2026 – Bariga Law Firm",
+        "menu": [
+          {
+            "role": "button",
+            "label": "Menu Toggle",
+            "expanded": "false",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          }
+        ],
+        "overflowing": []
+      },
+      "network": [
+        {
+          "type": "http",
+          "status": 404,
+          "url": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/mask-shapes/custom.svg"
+        }
+      ],
+      "errors": [],
+      "screenshot": "strategic-desktop.png",
+      "menuAfter": null
+    },
+    {
+      "name": "home",
+      "device": {
+        "name": "phone",
+        "width": 390,
+        "height": 844,
+        "mobile": true
+      },
+      "data": {
+        "url": "https://barigalawfirm.com/",
+        "title": "barigalawfirm.com",
+        "language": "en-US",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "document": {
+          "width": 390,
+          "height": 9059
+        },
+        "headings": [
+          {
+            "tag": "H1",
+            "text": "Integrity, Strategy & Justice",
+            "visible": true,
+            "box": {
+              "x": 30,
+              "y": 225,
+              "width": 330,
+              "height": 137
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "35px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Keahlian Mendalam untuk Tantangan Perusahaan Anda",
+            "visible": true,
+            "box": {
+              "x": 30,
+              "y": 1310,
+              "width": 330,
+              "height": 100
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "25.63px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Mitra Strategis Pertumbuhan Bisnis Anda",
+            "visible": true,
+            "box": {
+              "x": 40,
+              "y": 3939,
+              "width": 310,
+              "height": 100
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "25.63px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Mari Diskusikan Kebutuhan Strategis Anda",
+            "visible": true,
+            "box": {
+              "x": 30,
+              "y": 4979,
+              "width": 330,
+              "height": 100
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "25.63px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H3",
+            "text": "Langkah 1: Jadwalkan Konsultasi",
+            "visible": true,
+            "box": {
+              "x": 50,
+              "y": 5429,
+              "width": 290,
+              "height": 47
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "18px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H3",
+            "text": "Langkah 2: Analisis Kebutuhan",
+            "visible": true,
+            "box": {
+              "x": 50,
+              "y": 5790,
+              "width": 290,
+              "height": 47
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "18px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H3",
+            "text": "Langkah 3: Rekomendasi Strategis",
+            "visible": true,
+            "box": {
+              "x": 50,
+              "y": 6178,
+              "width": 290,
+              "height": 47
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "18px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Jadwalkan Sesi Strategis Anda",
+            "visible": true,
+            "box": {
+              "x": 30,
+              "y": 6668,
+              "width": 330,
+              "height": 67
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "25.63px",
+            "color": "rgb(0, 0, 0)"
+          }
+        ],
+        "links": [
+          {
+            "text": "",
+            "href": "https://barigalawfirm.com",
+            "label": null,
+            "box": {
+              "x": 20,
+              "y": 20,
+              "width": 245,
+              "height": 75
+            }
+          },
+          {
+            "text": "Solusi Hukum Anda",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 30,
+              "y": 693,
+              "width": 204,
+              "height": 58
+            }
+          },
+          {
+            "text": "Lebih Lanjut",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 51,
+              "y": 2283,
+              "width": 127,
+              "height": 34
+            }
+          },
+          {
+            "text": "Lebih Lanjut",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 51,
+              "y": 2683,
+              "width": 127,
+              "height": 34
+            }
+          },
+          {
+            "text": "Lebih Lanjut",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 51,
+              "y": 3106,
+              "width": 127,
+              "height": 34
+            }
+          },
+          {
+            "text": "Lebih Lanjut",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 51,
+              "y": 3565,
+              "width": 127,
+              "height": 34
+            }
+          },
+          {
+            "text": "Lebih Lanjut",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 122,
+              "y": 3671,
+              "width": 146,
+              "height": 58
+            }
+          },
+          {
+            "text": "Pelajari Pendekatan Kami",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 4345,
+              "width": 249,
+              "height": 58
+            }
+          },
+          {
+            "text": "Whatsapp",
+            "href": "https://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 142,
+              "y": 7857,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "",
+            "href": "https://scholar.google.co.id/citations?user=KBu-M5QAAAAJ&hl=en",
+            "label": null,
+            "box": {
+              "x": 179,
+              "y": 7857,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "",
+            "href": "https://orcid.org/0009-0008-0952-232X",
+            "label": null,
+            "box": {
+              "x": 216,
+              "y": 7857,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "Home",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 8011,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "About us",
+            "href": "/about-us/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 8057,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Practice Areas",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 8103,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Lain-lain",
+            "href": "/lain-lain/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 8149,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Perdata & Bisnis",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 8286,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Kepailitan & PKPU",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 8332,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Arbitrase & Penyelesaian Sengketa",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 8378,
+              "width": 310,
+              "height": 72
+            }
+          },
+          {
+            "text": "Hukum Perbankan & Keuangan",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 8460,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Lain-lain",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 8506,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Jl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 50,
+              "y": 8652,
+              "width": 290,
+              "height": 108
+            }
+          },
+          {
+            "text": "+62 812-9579-8826",
+            "href": "http://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 50,
+              "y": 8770,
+              "width": 290,
+              "height": 36
+            }
+          },
+          {
+            "text": "mesa.naiborhu @barigalawfirm.com",
+            "href": "mailto:mesa.naiborhu@barigalawfirm.com",
+            "label": null,
+            "box": {
+              "x": 50,
+              "y": 8816,
+              "width": 290,
+              "height": 72
+            }
+          }
+        ],
+        "images": [
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/bariga-law-firm-logo-1.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 390,
+            "visible": true,
+            "box": {
+              "x": 20,
+              "y": 20,
+              "width": 123,
+              "height": 75
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/background-removed.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 390,
+            "visible": true,
+            "box": {
+              "x": 75,
+              "y": 833,
+              "width": 268,
+              "height": 269
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/Managing_Partner-removebg-preview.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 390,
+            "visible": true,
+            "box": {
+              "x": 55,
+              "y": 4444,
+              "width": 280,
+              "height": 296
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/bariga-law-firm-logo-1.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 390,
+            "visible": true,
+            "box": {
+              "x": 50,
+              "y": 7522,
+              "width": 87,
+              "height": 53
+            }
+          }
+        ],
+        "forms": [
+          {
+            "name": "Get Quote Now",
+            "action": null,
+            "fields": [
+              {
+                "name": "form_fields[name]",
+                "type": "text",
+                "required": false,
+                "label": "Nama",
+                "placeholder": "Nama Anda"
+              },
+              {
+                "name": "form_fields[email]",
+                "type": "email",
+                "required": true,
+                "label": "Email",
+                "placeholder": "Email Anda"
+              },
+              {
+                "name": "form_fields[field_75cd629]",
+                "type": "text",
+                "required": false,
+                "label": "Nomor Anda",
+                "placeholder": "Nomor Anda"
+              },
+              {
+                "name": "form_fields[message]",
+                "type": "textarea",
+                "required": false,
+                "label": "Pesan",
+                "placeholder": "Pesan Anda"
+              }
+            ]
+          }
+        ],
+        "text": "Home\nAbout Us\nPractice Areas\nLayanan Strategis\nIntegrity, Strategy & Justice\n\nBARIGA LAW FIRM adalah firma hukum modern yang menyediakan solusi hukum strategis bagi korporasi dan individu. Kami menggabungkan keahlian hukum yang mendalam dengan pemahaman bisnis yang tajam\n\nSolusi Hukum Anda\nKeahlian Mendalam untuk Tantangan Perusahaan Anda\n\nDi BARIGA LAW FIRM, kami memahami bahwa setiap tantangan bisnis memiliki dimensi hukum yang unik. Kami tidak hanya menawarkan nasihat hukum, tetapi juga merancang strategi penyelesaian yang efisien dan terukur\n\nHukum Perdata & Bisnis\n\nMemberikan pendampingan hukum komprehensif mulai dari pendirian perusahaan, perancangan kontrak, hingga kepatuhan regulasi korporat.\n\nLebih Lanjut\nHukum Kepailitan & PKPU\n\nMembantu perusahaan menavigasi proses restrukturisasi utang  yang kompleks dan melindungi aset selama masa krisis finansial.\n\nLebih Lanjut\nArbitrase & Penyelesaian Sengketa\n\nMenyediakan representasi strategis arbitrase dan mediasi untuk menyelesaikan sengketa bisnis di luar pengadilan.\n\nLebih Lanjut\nHukum Perbankan & Keuangan\n\nNasihat ahli mengenai regulasi finansial, perjanjian kredit, dan litigasi perbankan untuk melindungi transaksi keuangan Anda.\n\nLebih Lanjut\nLebih Lanjut\nMitra Strategis Pertumbuhan Bisnis Anda\n\nKami percaya masalah hukum dalam bisnis jarang berdiri sendiri. Oleh karena itu, BARIGA LAW FIRM hadir dengan pendekatan terpadu. Kami tidak hanya memastikan kepatuhan hukum Anda, tetapi juga berfungsi sebagai Legal & Business Strategist.\n\nPelajari Pendekatan Kami\nMesa Indra Naiborhu, S.P., S.H., M.H., CPM.\nManaging Partner\nMari Diskusikan Kebutuhan Strategis Anda\n\nSetiap tantangan hukum dan bisnis yang kompleks memerlukan diskusi awal yang mendalam. Hubungi kami untuk menjadwalkan sesi konsultasi rahasia.\n\nLangkah 1: Jadwalkan Konsultasi\n\nHubungi kami melalui formulir kontak, email, atau telepon untuk mengatur jadwal diskusi awal yang fleksibel dan rahasia sesuai kenyamanan Anda.\n\nLangkah 2: Analisis Kebutuhan\n\nDalam sesi konsultasi, tim kami akan mendengarkan dan menganalisis situasi Anda secara komprehensif untuk memahami akar permasalahan dan tujuan akhir Anda.\n\nLangkah 3: Rekomendasi Strategis\n\nAnda akan menerima gambaran umum mengenai opsi hukum dan rekomendasi strategi bisnis sebagai langkah awal untuk penyelesaian masalah Anda.\n\nJadwalkan Sesi Strategis Anda\nNama\nEmail\nNomor Anda\nPesan\nKirim Pesan\n\nInformasi di situs ini bersifat umum dan tidak merupakan nasihat hukum yang mengikat. Konsultasikan langsung dengan advokat kami untuk pendapat hukum spesifik.\n\nWhatsapp\n \n \nMenu\nHome\nAbout us\nPractice Areas\nLain-lain\nServices\nHukum Perdata & Bisnis\nHukum Kepailitan & PKPU\nHukum Arbitrase & Penyelesaian Sengketa\nHukum Perbankan & Keuangan\nLain-lain\nWhere We Are\nJl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)\n+62 812-9579-8826\nmesa.naiborhu\n@barigalawfirm.com\n©2026 – Bariga Law Firm",
+        "menu": [
+          {
+            "role": "button",
+            "label": "Menu Toggle",
+            "expanded": "false",
+            "visible": true,
+            "box": {
+              "x": 300,
+              "y": 39,
+              "width": 36,
+              "height": 36
+            }
+          }
+        ],
+        "overflowing": [
+          {
+            "tag": "DIV",
+            "class": "elementor-element elementor-element-34c8ea40 elementor-absolute elementor-widget elementor-widget-spacer",
+            "box": {
+              "x": 50,
+              "y": 743,
+              "width": 350,
+              "height": 349
+            }
+          }
+        ]
+      },
+      "network": [
+        {
+          "type": "http",
+          "status": 404,
+          "url": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/mask-shapes/custom.svg"
+        }
+      ],
+      "errors": [],
+      "screenshot": "home-phone.png",
+      "menuAfter": {
+        "expanded": "true",
+        "visibleLinks": [
+          "Home",
+          "About Us",
+          "Practice Areas",
+          "Layanan Strategis"
+        ]
+      }
+    },
+    {
+      "name": "about",
+      "device": {
+        "name": "phone",
+        "width": 390,
+        "height": 844,
+        "mobile": true
+      },
+      "data": {
+        "url": "https://barigalawfirm.com/about-us/",
+        "title": "About Us – barigalawfirm.com",
+        "language": "en-US",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "document": {
+          "width": 390,
+          "height": 5866
+        },
+        "headings": [
+          {
+            "tag": "H1",
+            "text": "TENTANG KAMI",
+            "visible": true,
+            "box": {
+              "x": 30,
+              "y": 245,
+              "width": 330,
+              "height": 46
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "35px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Pesan dari Managing Partner",
+            "visible": true,
+            "box": {
+              "x": 30,
+              "y": 1373,
+              "width": 330,
+              "height": 67
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "25.63px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "We serve the best service",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "25.63px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "01.",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "25.63px",
+            "color": "rgb(12, 202, 168)"
+          },
+          {
+            "tag": "H2",
+            "text": "02.",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "25.63px",
+            "color": "rgb(8, 92, 76)"
+          },
+          {
+            "tag": "H2",
+            "text": "03.",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "25.63px",
+            "color": "rgb(8, 92, 76)"
+          },
+          {
+            "tag": "H3",
+            "text": "Melampaui Nasihat Hukum: Mitra Strategis Bisnis Anda",
+            "visible": true,
+            "box": {
+              "x": 70,
+              "y": 2349,
+              "width": 250,
+              "height": 118
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "22.78px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H4",
+            "text": "Irisan Kompetensi: Hukum, Keuangan & Manajemen",
+            "visible": true,
+            "box": {
+              "x": 70,
+              "y": 3382,
+              "width": 250,
+              "height": 79
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "20.25px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Specialist Family Lawyers And Divorce Solicitors",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "25.63px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Feel free to ask any questions to us",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "25.63px",
+            "color": "rgb(0, 0, 0)"
+          }
+        ],
+        "links": [
+          {
+            "text": "",
+            "href": "https://barigalawfirm.com",
+            "label": null,
+            "box": {
+              "x": 20,
+              "y": 20,
+              "width": 245,
+              "height": 75
+            }
+          },
+          {
+            "text": "Contact Us",
+            "href": "https://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 70,
+              "y": 2774,
+              "width": 162,
+              "height": 58
+            }
+          },
+          {
+            "text": "Whatsapp",
+            "href": "https://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 142,
+              "y": 4663,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "",
+            "href": "https://scholar.google.co.id/citations?user=KBu-M5QAAAAJ&hl=en",
+            "label": null,
+            "box": {
+              "x": 179,
+              "y": 4663,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "",
+            "href": "https://orcid.org/0009-0008-0952-232X",
+            "label": null,
+            "box": {
+              "x": 216,
+              "y": 4663,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "Home",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 4817,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "About us",
+            "href": "/about-us/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 4863,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Practice Areas",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 4909,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Lain-lain",
+            "href": "/lain-lain/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 4955,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Perdata & Bisnis",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 5092,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Kepailitan & PKPU",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 5138,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Arbitrase & Penyelesaian Sengketa",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 5184,
+              "width": 310,
+              "height": 72
+            }
+          },
+          {
+            "text": "Hukum Perbankan & Keuangan",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 5266,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Lain-lain",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 5312,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Jl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 50,
+              "y": 5458,
+              "width": 290,
+              "height": 108
+            }
+          },
+          {
+            "text": "+62 812-9579-8826",
+            "href": "http://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 50,
+              "y": 5576,
+              "width": 290,
+              "height": 36
+            }
+          },
+          {
+            "text": "mesa.naiborhu @barigalawfirm.com",
+            "href": "mailto:mesa.naiborhu@barigalawfirm.com",
+            "label": null,
+            "box": {
+              "x": 50,
+              "y": 5622,
+              "width": 290,
+              "height": 72
+            }
+          }
+        ],
+        "images": [
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/bariga-law-firm-logo-1.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 390,
+            "visible": true,
+            "box": {
+              "x": 20,
+              "y": 20,
+              "width": 123,
+              "height": 75
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/images/placeholder.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 1200,
+            "visible": true,
+            "box": {
+              "x": 330,
+              "y": 2815,
+              "width": 30,
+              "height": 20
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/images/placeholder.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 1200,
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/images/placeholder.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 1200,
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/images/placeholder.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 1200,
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/images/placeholder.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 1200,
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/images/placeholder.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 1200,
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/bariga-law-firm-logo-1.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 390,
+            "visible": true,
+            "box": {
+              "x": 50,
+              "y": 4328,
+              "width": 87,
+              "height": 53
+            }
+          }
+        ],
+        "forms": [
+          {
+            "name": "Get Quote Now",
+            "action": null,
+            "fields": [
+              {
+                "name": "form_fields[name]",
+                "type": "text",
+                "required": false,
+                "label": "\n\t\t\t\t\t\t\t\tYour Name\t\t\t\t\t\t\t",
+                "placeholder": "Your Name"
+              },
+              {
+                "name": "form_fields[email]",
+                "type": "email",
+                "required": true,
+                "label": "\n\t\t\t\t\t\t\t\tYour Email\t\t\t\t\t\t\t",
+                "placeholder": "Your Email"
+              },
+              {
+                "name": "form_fields[message]",
+                "type": "textarea",
+                "required": false,
+                "label": "\n\t\t\t\t\t\t\t\tYour Message\t\t\t\t\t\t\t",
+                "placeholder": "Your Message"
+              }
+            ]
+          }
+        ],
+        "text": "Home\nAbout Us\nPractice Areas\nLayanan Strategis\nTENTANG KAMI\n\nBARIGA LAW FIRM adalah firma hukum strategis yang didirikan di atas tiga pilar: Integritas, Strategi, dan Keadilan. Misi kami adalah memberikan solusi hukum terintegrasi yang tidak hanya menyelesaikan masalah, tetapi juga menciptakan nilai tambah dan kepastian bagi pertumbuhan bisnis klien kami.\n\nPesan dari Managing Partner\n\n“Kami percaya bahwa masalah hukum dalam bisnis jarang berdiri sendiri. Tantangan tersebut seringkali berakar pada isu keuangan, operasional, atau strategis.\n\nDi BARIGA LAW FIRM,  Setiap kasus dan transaksi kami analisis melalui tiga lensa terintegrasi: Kepatuhan Hukum, Kelayakan Finansial, dan Strategi Manajemen. Pendekatan holistik inilah yang memungkinkan kami memberikan rekomendasi yang tidak hanya aman secara yuridis, tetapi juga cerdas secara komersial.”\n\n— Mesa Indra Naiborhu, S.P., S.H., M.H., CPM.\n\nManaging Partner\n\nMelampaui Nasihat Hukum: Mitra Strategis Bisnis Anda\n\nKami memahami bahwa kebutuhan bisnis modern melampaui litigasi. BARIGA LAW FIRM juga menyediakan layanan konsultasi bisnis, restrukturisasi keuangan, dan training.\n\nContact Us\nIrisan Kompetensi: Hukum, Keuangan & Manajemen\n\nPosisi unik kami sebagai Legal & Business Strategist memungkinkan kami menjembatani kebutuhan kepatuhan hukum dengan solusi keuangan dan manajemen yang praktis\n\nInformasi di situs ini bersifat umum dan tidak merupakan nasihat hukum yang mengikat. Konsultasikan langsung dengan advokat kami untuk pendapat hukum spesifik.\n\nWhatsapp\n \n \nMenu\nHome\nAbout us\nPractice Areas\nLain-lain\nServices\nHukum Perdata & Bisnis\nHukum Kepailitan & PKPU\nHukum Arbitrase & Penyelesaian Sengketa\nHukum Perbankan & Keuangan\nLain-lain\nWhere We Are\nJl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)\n+62 812-9579-8826\nmesa.naiborhu\n@barigalawfirm.com\n©2026 – Bariga Law Firm",
+        "menu": [
+          {
+            "role": "button",
+            "label": "Menu Toggle",
+            "expanded": "false",
+            "visible": true,
+            "box": {
+              "x": 300,
+              "y": 39,
+              "width": 36,
+              "height": 36
+            }
+          }
+        ],
+        "overflowing": []
+      },
+      "network": [
+        {
+          "type": "http",
+          "status": 404,
+          "url": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/mask-shapes/custom.svg"
+        }
+      ],
+      "errors": [],
+      "screenshot": "about-phone.png",
+      "menuAfter": null
+    },
+    {
+      "name": "practice",
+      "device": {
+        "name": "phone",
+        "width": 390,
+        "height": 844,
+        "mobile": true
+      },
+      "data": {
+        "url": "https://barigalawfirm.com/practice-areas/",
+        "title": "Practice Areas – barigalawfirm.com",
+        "language": "en-US",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "document": {
+          "width": 390,
+          "height": 7548
+        },
+        "headings": [
+          {
+            "tag": "H1",
+            "text": "Practice Areas",
+            "visible": true,
+            "box": {
+              "x": 30,
+              "y": 245,
+              "width": 330,
+              "height": 46
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "35px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Efficient Solutions That Your Company Needs",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "25.63px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H4",
+            "text": "Melampaui Nasihat Hukum: Mitra Strategis Bisnis Anda",
+            "visible": true,
+            "box": {
+              "x": 70,
+              "y": 4072,
+              "width": 250,
+              "height": 79
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "20.25px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H4",
+            "text": "Irisan Kompetensi: Hukum, Keuangan & Manajemen",
+            "visible": true,
+            "box": {
+              "x": 70,
+              "y": 5065,
+              "width": 250,
+              "height": 79
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "20.25px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Don't Be An Unsolved Case Claim Your Life",
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "25.63px",
+            "color": "rgb(0, 0, 0)"
+          }
+        ],
+        "links": [
+          {
+            "text": "",
+            "href": "https://barigalawfirm.com",
+            "label": null,
+            "box": {
+              "x": 20,
+              "y": 20,
+              "width": 245,
+              "height": 75
+            }
+          },
+          {
+            "text": "CONTACT ME",
+            "href": "https://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 70,
+              "y": 4457,
+              "width": 188,
+              "height": 58
+            }
+          },
+          {
+            "text": "Whatsapp",
+            "href": "https://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 142,
+              "y": 6346,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "",
+            "href": "https://scholar.google.co.id/citations?user=KBu-M5QAAAAJ&hl=en",
+            "label": null,
+            "box": {
+              "x": 179,
+              "y": 6346,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "",
+            "href": "https://orcid.org/0009-0008-0952-232X",
+            "label": null,
+            "box": {
+              "x": 216,
+              "y": 6346,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "Home",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 6500,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "About us",
+            "href": "/about-us/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 6546,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Practice Areas",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 6592,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Lain-lain",
+            "href": "/lain-lain/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 6638,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Perdata & Bisnis",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 6775,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Kepailitan & PKPU",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 6821,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Arbitrase & Penyelesaian Sengketa",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 6867,
+              "width": 310,
+              "height": 72
+            }
+          },
+          {
+            "text": "Hukum Perbankan & Keuangan",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 6949,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Lain-lain",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 6995,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Jl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 50,
+              "y": 7141,
+              "width": 290,
+              "height": 108
+            }
+          },
+          {
+            "text": "+62 812-9579-8826",
+            "href": "http://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 50,
+              "y": 7259,
+              "width": 290,
+              "height": 36
+            }
+          },
+          {
+            "text": "mesa.naiborhu @barigalawfirm.com",
+            "href": "mailto:mesa.naiborhu@barigalawfirm.com",
+            "label": null,
+            "box": {
+              "x": 50,
+              "y": 7305,
+              "width": 290,
+              "height": 72
+            }
+          }
+        ],
+        "images": [
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/bariga-law-firm-logo-1.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 390,
+            "visible": true,
+            "box": {
+              "x": 20,
+              "y": 20,
+              "width": 123,
+              "height": 75
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/images/placeholder.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 1200,
+            "visible": true,
+            "box": {
+              "x": 330,
+              "y": 4498,
+              "width": 30,
+              "height": 20
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/images/placeholder.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 1200,
+            "visible": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/bariga-law-firm-logo-1.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 390,
+            "visible": true,
+            "box": {
+              "x": 50,
+              "y": 6011,
+              "width": 87,
+              "height": 53
+            }
+          }
+        ],
+        "forms": [],
+        "text": "Home\nAbout Us\nPractice Areas\nLayanan Strategis\nPractice Areas\n\nKeahlian kami mencakup berbagai disiplin hukum yang vital bagi korporasi modern maupun kebutuhan individu. Dari restrukturisasi keuangan dan transaksi bisnis yang kompleks, arbitrase komersial, hingga penyelesaian sengketa pidana dan perdata.\n\nHukum Perdata & Bisnis\n\nPendampingan penuh untuk pendirian perusahaan, perancangan kontrak, aksi korporasi, dan kepatuhan regulasi untuk mengamankan setiap aspek operasional bisnis Anda.\n\nHukum Kepailitan & PKPU\n\nMemberikan solusi strategis bagi kreditur atau debitur dalam menavigasi proses restrukturisasi utang yang kompleks, kepailitan, dan Penundaan Kewajiban Pembayaran Utang (PKPU).\n\nHukum Pidana (Umum & Bisnis)\n\nPendampingan ahli di setiap tahap proses peradilan pidana, baik untuk kasus pidana umum maupun pidana khusus di bidang bisnis (kejahatan korporasi dan kerah putih)\n\nArbitrase & Penyelesaian Sengketa\n\nRepresentasi klien dalam forum arbitrase nasional (BANI) maupun internasional, serta mediasi, menawarkan penyelesaian sengketa yang efisien di luar litigasi pengadilan.\n\nHukum Keluarga & Waris\n\nMenangani permasalahan hukum keluarga yang sensitif, termasuk sengketa waris, hibah, wasiat, dan perjanjian pra-nikah dengan kerahasiaan dan profesionalisme penuh.\n\nHukum Perbankan & Keuangan\n\nNasihat komprehensif mengenai regulasi perbankan, perjanjian kredit, pembiayaan proyek, dan penyelesaian sengketa perbankan untuk melindungi transaksi finansial Anda.\n\nHukum Teknologi & Perlindungan Data\n\nMemastikan bisnis Anda patuh pada regulasi perlindungan data (UU PDP), serta menangani aspek hukum dalam kontrak IT, transaksi digital, dan keamanan siber.\n\nMelampaui Nasihat Hukum: Mitra Strategis Bisnis Anda\n\nKami memahami bahwa kebutuhan bisnis modern melampaui litigasi. BARIGA LAW FIRM juga menyediakan layanan konsultasi bisnis, restrukturisasi keuangan, dan training.\n\nCONTACT ME\nIrisan Kompetensi: Hukum, Keuangan & Manajemen\n\nPosisi unik kami sebagai Legal & Business Strategist memungkinkan kami menjembatani kebutuhan kepatuhan hukum dengan solusi keuangan dan manajemen yang praktis\n\nInformasi di situs ini bersifat umum dan tidak merupakan nasihat hukum yang mengikat. Konsultasikan langsung dengan advokat kami untuk pendapat hukum spesifik.\n\nWhatsapp\n \n \nMenu\nHome\nAbout us\nPractice Areas\nLain-lain\nServices\nHukum Perdata & Bisnis\nHukum Kepailitan & PKPU\nHukum Arbitrase & Penyelesaian Sengketa\nHukum Perbankan & Keuangan\nLain-lain\nWhere We Are\nJl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)\n+62 812-9579-8826\nmesa.naiborhu\n@barigalawfirm.com\n©2026 – Bariga Law Firm",
+        "menu": [
+          {
+            "role": "button",
+            "label": "Menu Toggle",
+            "expanded": "false",
+            "visible": true,
+            "box": {
+              "x": 300,
+              "y": 39,
+              "width": 36,
+              "height": 36
+            }
+          }
+        ],
+        "overflowing": []
+      },
+      "network": [
+        {
+          "type": "http",
+          "status": 404,
+          "url": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/mask-shapes/custom.svg"
+        }
+      ],
+      "errors": [],
+      "screenshot": "practice-phone.png",
+      "menuAfter": null
+    },
+    {
+      "name": "strategic",
+      "device": {
+        "name": "phone",
+        "width": 390,
+        "height": 844,
+        "mobile": true
+      },
+      "data": {
+        "url": "https://barigalawfirm.com/lain-lain/",
+        "title": "Layanan Strategis – barigalawfirm.com",
+        "language": "en-US",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "document": {
+          "width": 390,
+          "height": 5656
+        },
+        "headings": [
+          {
+            "tag": "H2",
+            "text": "TRAINING AND CONSULTING",
+            "visible": true,
+            "box": {
+              "x": 30,
+              "y": 595,
+              "width": 330,
+              "height": 67
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "25.63px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "MULAI KONSULTASI ANDA",
+            "visible": true,
+            "box": {
+              "x": 30,
+              "y": 3359,
+              "width": 330,
+              "height": 67
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "25.63px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H2",
+            "text": "Info Kontak",
+            "visible": true,
+            "box": {
+              "x": 10,
+              "y": 2656,
+              "width": 370,
+              "height": 33
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "25.63px",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "H4",
+            "text": "ALAMAT KANTOR",
+            "visible": true,
+            "box": {
+              "x": 10,
+              "y": 2709,
+              "width": 370,
+              "height": 26
+            },
+            "font": "\"Cinzel Decorative\", sans-serif",
+            "size": "20.25px",
+            "color": "rgb(0, 0, 0)"
+          }
+        ],
+        "links": [
+          {
+            "text": "",
+            "href": "https://barigalawfirm.com",
+            "label": null,
+            "box": {
+              "x": 20,
+              "y": 20,
+              "width": 245,
+              "height": 75
+            }
+          },
+          {
+            "text": "Whatsapp",
+            "href": "https://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 142,
+              "y": 4454,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "",
+            "href": "https://scholar.google.co.id/citations?user=KBu-M5QAAAAJ&hl=en",
+            "label": null,
+            "box": {
+              "x": 179,
+              "y": 4454,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "",
+            "href": "https://orcid.org/0009-0008-0952-232X",
+            "label": null,
+            "box": {
+              "x": 216,
+              "y": 4454,
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "text": "Home",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 4607,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "About us",
+            "href": "/about-us/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 4653,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Practice Areas",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 4699,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Lain-lain",
+            "href": "/lain-lain/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 4745,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Perdata & Bisnis",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 4882,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Kepailitan & PKPU",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 4928,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Hukum Arbitrase & Penyelesaian Sengketa",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 4974,
+              "width": 310,
+              "height": 72
+            }
+          },
+          {
+            "text": "Hukum Perbankan & Keuangan",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 5056,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Lain-lain",
+            "href": "/practice-areas/",
+            "label": null,
+            "box": {
+              "x": 40,
+              "y": 5102,
+              "width": 310,
+              "height": 36
+            }
+          },
+          {
+            "text": "Jl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)",
+            "href": "#",
+            "label": null,
+            "box": {
+              "x": 50,
+              "y": 5249,
+              "width": 290,
+              "height": 108
+            }
+          },
+          {
+            "text": "+62 812-9579-8826",
+            "href": "http://wa.me/+6281295798826",
+            "label": null,
+            "box": {
+              "x": 50,
+              "y": 5367,
+              "width": 290,
+              "height": 36
+            }
+          },
+          {
+            "text": "mesa.naiborhu @barigalawfirm.com",
+            "href": "mailto:mesa.naiborhu@barigalawfirm.com",
+            "label": null,
+            "box": {
+              "x": 50,
+              "y": 5413,
+              "width": 290,
+              "height": 72
+            }
+          }
+        ],
+        "images": [
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/bariga-law-firm-logo-1.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 390,
+            "visible": true,
+            "box": {
+              "x": 20,
+              "y": 20,
+              "width": 123,
+              "height": 75
+            }
+          },
+          {
+            "src": "https://barigalawfirm.com/wp-content/uploads/2025/09/bariga-law-firm-logo-1.png",
+            "alt": "",
+            "loaded": true,
+            "naturalWidth": 390,
+            "visible": true,
+            "box": {
+              "x": 50,
+              "y": 4118,
+              "width": 87,
+              "height": 53
+            }
+          }
+        ],
+        "forms": [
+          {
+            "name": "GET KONSULTATION",
+            "action": null,
+            "fields": [
+              {
+                "name": "form_fields[field_1cb65e1]",
+                "type": "text",
+                "required": true,
+                "label": "Nama Anda",
+                "placeholder": "Nama Anda"
+              },
+              {
+                "name": "form_fields[email]",
+                "type": "email",
+                "required": true,
+                "label": "Email Anda",
+                "placeholder": "Email Anda"
+              },
+              {
+                "name": "form_fields[field_fc73839]",
+                "type": "text",
+                "required": true,
+                "label": "Nomor Whatsapp",
+                "placeholder": "Whatsapp Anda"
+              },
+              {
+                "name": "form_fields[message]",
+                "type": "textarea",
+                "required": true,
+                "label": "Pesan Anda",
+                "placeholder": "Pesan Anda"
+              }
+            ]
+          }
+        ],
+        "text": "Home\nAbout Us\nPractice Areas\nLayanan Strategis\nTRAINING AND CONSULTING\n\nSelain layanan hukum, Bariga Law Firm juga mendukung perusahaan dalam meningkatkan tata kelola bisnis, restrukturisasi keuangan, dan pengembangan manajemen. Dengan pengalaman unik di bidang hukum, keuangan, dan manajemen, kami menghadirkan pendekatan terpadu untuk menjawab tantangan bisnis modern.\n\nBusiness Process Training\n\nMemberikan pelatihan terstruktur mengenai efisiensi alur kerja, penyusunan SOP, dan manajemen risiko operasional\n\nFinance & Restructuring\n\nLayanan konsultasi untuk restrukturisasi keuangan perusahaan, strategi keberlanjutan, dan manajemen krisis finansial.\n\nLaw & Compliance Training\n\nPelatihan kepatuhan hukum korporat, perancangan kontrak bisnis, perlindungan data (UU PDP), & corporate governance.\n\nMULAI KONSULTASI ANDA\nNama Anda\nEmail Anda\nNomor Whatsapp\nPesan Anda\nSend Message\nInfo Kontak\nALAMAT KANTOR\n\nJl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)\n\nEmail: mesa.naiborhu@barigalawfirm.com\nTelepon/WA: +62 812-9579-8826\nDIsclaimer\n\nInformasi di situs ini bersifat umum dan tidak merupakan nasihat hukum yang mengikat. Konsultasikan langsung dengan advokat kami untuk pendapat hukum spesifik.\n\nInformasi di situs ini bersifat umum dan tidak merupakan nasihat hukum yang mengikat. Konsultasikan langsung dengan advokat kami untuk pendapat hukum spesifik.\n\nWhatsapp\n \n \nMenu\nHome\nAbout us\nPractice Areas\nLain-lain\nServices\nHukum Perdata & Bisnis\nHukum Kepailitan & PKPU\nHukum Arbitrase & Penyelesaian Sengketa\nHukum Perbankan & Keuangan\nLain-lain\nWhere We Are\nJl.Mayjend. Sutoyo No 21 RT. 09 RW 09 Kel. Cililitan Kec. Kramatjati, Jaktim (13640)\n+62 812-9579-8826\nmesa.naiborhu\n@barigalawfirm.com\n©2026 – Bariga Law Firm",
+        "menu": [
+          {
+            "role": "button",
+            "label": "Menu Toggle",
+            "expanded": "false",
+            "visible": true,
+            "box": {
+              "x": 300,
+              "y": 39,
+              "width": 36,
+              "height": 36
+            }
+          }
+        ],
+        "overflowing": []
+      },
+      "network": [
+        {
+          "type": "http",
+          "status": 404,
+          "url": "https://barigalawfirm.com/wp-content/plugins/elementor/assets/mask-shapes/custom.svg"
+        }
+      ],
+      "errors": [],
+      "screenshot": "strategic-phone.png",
+      "menuAfter": null
+    }
+  ]
+}
